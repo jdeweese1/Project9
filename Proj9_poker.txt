@@ -1,0 +1,6999 @@
+Hand 0:
+2 of Clubs
+6 of Hearts
+Queen of Spades
+4 of Clubs
+9 of Diamonds
+
+Hand 1:
+Ace of Hearts
+2 of Hearts
+King of Diamonds
+9 of Hearts
+Ace of Clubs
+
+Hand 2:
+10 of Hearts
+4 of Diamonds
+5 of Spades
+King of Clubs
+7 of Hearts
+
+Hand 3:
+5 of Diamonds
+Ace of Spades
+10 of Diamonds
+9 of Clubs
+8 of Diamonds
+
+Hand 4:
+2 of Diamonds
+10 of Spades
+10 of Clubs
+Jack of Clubs
+5 of Hearts
+
+Hand 5:
+Jack of Diamonds
+3 of Spades
+8 of Hearts
+Queen of Hearts
+7 of Clubs
+
+Hand 6:
+Jack of Hearts
+3 of Diamonds
+6 of Diamonds
+6 of Spades
+4 of Hearts
+
+Hand 7:
+3 of Clubs
+5 of Clubs
+3 of Hearts
+Queen of Clubs
+7 of Diamonds
+
+Hand 8:
+4 of Spades
+6 of Clubs
+8 of Spades
+Ace of Diamonds
+2 of Spades
+
+Hand 9:
+7 of Spades
+8 of Clubs
+9 of Spades
+7 of Diamonds
+4 of Clubs
+
+Hand 10:
+Jack of Clubs
+King of Clubs
+King of Spades
+3 of Hearts
+King of Diamonds
+
+Hand 11:
+Queen of Spades
+2 of Diamonds
+Queen of Clubs
+10 of Clubs
+Queen of Diamonds
+
+Hand 12:
+King of Hearts
+10 of Hearts
+2 of Clubs
+5 of Hearts
+Jack of Spades
+
+Hand 13:
+7 of Hearts
+5 of Diamonds
+2 of Hearts
+3 of Diamonds
+5 of Clubs
+
+Hand 14:
+10 of Spades
+7 of Clubs
+2 of Spades
+8 of Diamonds
+6 of Clubs
+
+Hand 15:
+4 of Hearts
+6 of Spades
+Ace of Hearts
+6 of Hearts
+9 of Diamonds
+
+Hand 16:
+9 of Clubs
+3 of Clubs
+3 of Spades
+Jack of Diamonds
+7 of Spades
+
+Hand 17:
+10 of Diamonds
+Queen of Hearts
+8 of Clubs
+8 of Hearts
+9 of Hearts
+
+Hand 18:
+Ace of Diamonds
+4 of Spades
+Ace of Clubs
+Jack of Hearts
+6 of Diamonds
+
+Hand 19:
+4 of Diamonds
+8 of Diamonds
+King of Diamonds
+2 of Diamonds
+5 of Clubs
+
+Hand 20:
+10 of Spades
+4 of Diamonds
+5 of Diamonds
+King of Spades
+Jack of Diamonds
+
+Hand 21:
+2 of Spades
+Queen of Clubs
+8 of Hearts
+7 of Spades
+3 of Hearts
+
+Hand 22:
+Ace of Diamonds
+9 of Hearts
+10 of Hearts
+9 of Clubs
+6 of Clubs
+
+Hand 23:
+King of Clubs
+7 of Hearts
+5 of Spades
+6 of Diamonds
+4 of Clubs
+
+Hand 24:
+Ace of Spades
+Jack of Clubs
+Queen of Diamonds
+4 of Spades
+8 of Clubs
+
+Hand 25:
+10 of Clubs
+9 of Spades
+5 of Hearts
+10 of Diamonds
+3 of Diamonds
+
+Hand 26:
+8 of Spades
+9 of Diamonds
+King of Hearts
+7 of Clubs
+Ace of Clubs
+
+Hand 27:
+3 of Clubs
+3 of Spades
+4 of Hearts
+Jack of Spades
+6 of Hearts
+
+Hand 28:
+2 of Clubs
+Jack of Hearts
+Queen of Hearts
+7 of Diamonds
+3 of Clubs
+
+Hand 29:
+Jack of Diamonds
+3 of Diamonds
+5 of Spades
+5 of Diamonds
+Queen of Clubs
+
+Hand 30:
+6 of Spades
+7 of Diamonds
+8 of Hearts
+10 of Spades
+7 of Spades
+
+Hand 31:
+Ace of Diamonds
+6 of Hearts
+Jack of Spades
+7 of Clubs
+4 of Clubs
+
+Hand 32:
+King of Hearts
+2 of Hearts
+2 of Diamonds
+Ace of Spades
+6 of Clubs
+
+Hand 33:
+9 of Hearts
+8 of Clubs
+Ace of Clubs
+3 of Hearts
+5 of Hearts
+
+Hand 34:
+10 of Hearts
+4 of Diamonds
+9 of Clubs
+8 of Diamonds
+4 of Spades
+
+Hand 35:
+5 of Clubs
+3 of Spades
+Queen of Diamonds
+Jack of Hearts
+7 of Hearts
+
+Hand 36:
+8 of Spades
+9 of Spades
+4 of Hearts
+6 of Diamonds
+King of Spades
+
+Hand 37:
+9 of Diamonds
+Queen of Spades
+King of Diamonds
+10 of Clubs
+Queen of Hearts
+
+Hand 38:
+2 of Spades
+Jack of Clubs
+3 of Spades
+6 of Hearts
+6 of Spades
+
+Hand 39:
+King of Diamonds
+2 of Spades
+3 of Hearts
+Queen of Diamonds
+5 of Diamonds
+
+Hand 40:
+King of Spades
+10 of Hearts
+8 of Hearts
+7 of Hearts
+Jack of Hearts
+
+Hand 41:
+4 of Diamonds
+Ace of Diamonds
+3 of Clubs
+2 of Hearts
+Jack of Diamonds
+
+Hand 42:
+3 of Diamonds
+10 of Diamonds
+7 of Spades
+9 of Spades
+Jack of Clubs
+
+Hand 43:
+5 of Clubs
+Ace of Clubs
+4 of Hearts
+7 of Clubs
+Queen of Spades
+
+Hand 44:
+Queen of Hearts
+King of Hearts
+2 of Clubs
+9 of Diamonds
+9 of Clubs
+
+Hand 45:
+5 of Hearts
+5 of Spades
+Jack of Spades
+Ace of Spades
+10 of Clubs
+
+Hand 46:
+7 of Diamonds
+8 of Spades
+6 of Diamonds
+Ace of Hearts
+4 of Spades
+
+Hand 47:
+8 of Clubs
+2 of Diamonds
+9 of Hearts
+10 of Spades
+Queen of Clubs
+
+Hand 48:
+3 of Spades
+5 of Spades
+Queen of Spades
+5 of Clubs
+Ace of Clubs
+
+Hand 49:
+4 of Clubs
+10 of Spades
+7 of Hearts
+2 of Diamonds
+2 of Hearts
+
+Hand 50:
+King of Hearts
+Jack of Hearts
+6 of Hearts
+Queen of Hearts
+4 of Diamonds
+
+Hand 51:
+6 of Spades
+8 of Spades
+Jack of Clubs
+2 of Clubs
+Ace of Diamonds
+
+Hand 52:
+7 of Diamonds
+8 of Clubs
+4 of Hearts
+5 of Diamonds
+Queen of Diamonds
+
+Hand 53:
+Queen of Clubs
+5 of Hearts
+3 of Hearts
+3 of Diamonds
+9 of Hearts
+
+Hand 54:
+9 of Spades
+6 of Clubs
+King of Clubs
+Ace of Hearts
+9 of Clubs
+
+Hand 55:
+8 of Diamonds
+King of Diamonds
+Ace of Spades
+King of Spades
+Jack of Spades
+
+Hand 56:
+8 of Hearts
+10 of Clubs
+3 of Clubs
+7 of Spades
+9 of Diamonds
+
+Hand 57:
+10 of Diamonds
+10 of Hearts
+Jack of Diamonds
+3 of Spades
+Queen of Spades
+
+Hand 58:
+8 of Spades
+9 of Diamonds
+10 of Diamonds
+6 of Clubs
+Jack of Diamonds
+
+Hand 59:
+7 of Diamonds
+4 of Clubs
+Ace of Diamonds
+Jack of Hearts
+7 of Clubs
+
+Hand 60:
+8 of Clubs
+Queen of Diamonds
+10 of Clubs
+7 of Hearts
+3 of Clubs
+
+Hand 61:
+8 of Hearts
+7 of Spades
+Ace of Hearts
+Jack of Spades
+8 of Diamonds
+
+Hand 62:
+King of Hearts
+Queen of Hearts
+2 of Spades
+King of Spades
+3 of Hearts
+
+Hand 63:
+10 of Hearts
+4 of Hearts
+9 of Hearts
+2 of Diamonds
+4 of Spades
+
+Hand 64:
+9 of Spades
+5 of Diamonds
+Queen of Clubs
+2 of Clubs
+2 of Hearts
+
+Hand 65:
+6 of Spades
+9 of Clubs
+5 of Clubs
+5 of Hearts
+King of Clubs
+
+Hand 66:
+6 of Diamonds
+Ace of Clubs
+Ace of Spades
+10 of Spades
+5 of Spades
+
+Hand 67:
+6 of Hearts
+Jack of Diamonds
+King of Diamonds
+6 of Clubs
+Queen of Hearts
+
+Hand 68:
+6 of Hearts
+9 of Spades
+2 of Diamonds
+Ace of Diamonds
+Queen of Diamonds
+
+Hand 69:
+8 of Clubs
+9 of Clubs
+3 of Diamonds
+7 of Diamonds
+2 of Clubs
+
+Hand 70:
+4 of Clubs
+7 of Clubs
+8 of Diamonds
+King of Hearts
+Jack of Hearts
+
+Hand 71:
+9 of Hearts
+7 of Spades
+7 of Hearts
+King of Clubs
+5 of Hearts
+
+Hand 72:
+4 of Diamonds
+10 of Spades
+King of Spades
+2 of Spades
+4 of Hearts
+
+Hand 73:
+Ace of Spades
+2 of Hearts
+3 of Clubs
+10 of Hearts
+5 of Spades
+
+Hand 74:
+9 of Diamonds
+Queen of Spades
+5 of Clubs
+Ace of Hearts
+3 of Spades
+
+Hand 75:
+10 of Clubs
+10 of Diamonds
+Jack of Clubs
+4 of Spades
+Jack of Spades
+
+Hand 76:
+6 of Spades
+8 of Hearts
+8 of Spades
+6 of Diamonds
+3 of Diamonds
+
+Hand 77:
+3 of Spades
+10 of Hearts
+3 of Clubs
+9 of Clubs
+5 of Spades
+
+Hand 78:
+Queen of Diamonds
+6 of Diamonds
+8 of Hearts
+Ace of Hearts
+2 of Hearts
+
+Hand 79:
+Jack of Clubs
+King of Diamonds
+9 of Spades
+5 of Diamonds
+King of Clubs
+
+Hand 80:
+10 of Clubs
+Queen of Clubs
+7 of Spades
+3 of Hearts
+10 of Diamonds
+
+Hand 81:
+9 of Diamonds
+10 of Spades
+King of Spades
+Ace of Spades
+2 of Diamonds
+
+Hand 82:
+4 of Clubs
+4 of Diamonds
+Jack of Diamonds
+4 of Spades
+7 of Diamonds
+
+Hand 83:
+Jack of Hearts
+8 of Spades
+Queen of Hearts
+8 of Clubs
+6 of Clubs
+
+Hand 84:
+4 of Hearts
+7 of Clubs
+8 of Diamonds
+6 of Spades
+6 of Hearts
+
+Hand 85:
+King of Hearts
+9 of Hearts
+Ace of Clubs
+5 of Clubs
+2 of Clubs
+
+Hand 86:
+2 of Spades
+5 of Hearts
+Jack of Diamonds
+6 of Hearts
+6 of Clubs
+
+Hand 87:
+Jack of Spades
+10 of Hearts
+9 of Hearts
+3 of Spades
+10 of Spades
+
+Hand 88:
+6 of Diamonds
+King of Hearts
+Ace of Clubs
+2 of Hearts
+9 of Clubs
+
+Hand 89:
+8 of Clubs
+6 of Spades
+4 of Spades
+King of Clubs
+9 of Spades
+
+Hand 90:
+7 of Spades
+3 of Diamonds
+2 of Diamonds
+5 of Hearts
+Queen of Spades
+
+Hand 91:
+10 of Clubs
+2 of Spades
+Queen of Clubs
+10 of Diamonds
+4 of Hearts
+
+Hand 92:
+8 of Spades
+Jack of Clubs
+Queen of Hearts
+8 of Diamonds
+3 of Hearts
+
+Hand 93:
+Ace of Hearts
+7 of Diamonds
+4 of Clubs
+5 of Spades
+Ace of Spades
+
+Hand 94:
+King of Spades
+3 of Clubs
+Queen of Diamonds
+5 of Diamonds
+8 of Hearts
+
+Hand 95:
+5 of Clubs
+4 of Diamonds
+7 of Clubs
+King of Diamonds
+7 of Hearts
+
+Hand 96:
+6 of Clubs
+9 of Spades
+King of Spades
+10 of Clubs
+Queen of Clubs
+
+Hand 97:
+Queen of Diamonds
+10 of Hearts
+9 of Hearts
+Ace of Diamonds
+Jack of Hearts
+
+Hand 98:
+7 of Diamonds
+Queen of Hearts
+2 of Hearts
+Jack of Spades
+King of Hearts
+
+Hand 99:
+5 of Spades
+King of Diamonds
+5 of Diamonds
+6 of Hearts
+3 of Diamonds
+
+Hand 100:
+6 of Spades
+4 of Diamonds
+Jack of Diamonds
+Ace of Hearts
+Ace of Clubs
+
+Hand 101:
+8 of Spades
+7 of Hearts
+10 of Spades
+7 of Clubs
+3 of Clubs
+
+Hand 102:
+8 of Hearts
+3 of Hearts
+4 of Spades
+4 of Clubs
+5 of Hearts
+
+Hand 103:
+Jack of Clubs
+5 of Clubs
+6 of Diamonds
+8 of Diamonds
+2 of Spades
+
+Hand 104:
+8 of Clubs
+9 of Diamonds
+Queen of Spades
+2 of Clubs
+2 of Diamonds
+
+Hand 105:
+3 of Spades
+7 of Spades
+9 of Clubs
+9 of Spades
+Ace of Diamonds
+
+Hand 106:
+2 of Hearts
+6 of Diamonds
+10 of Spades
+10 of Hearts
+Jack of Spades
+
+Hand 107:
+7 of Hearts
+7 of Spades
+6 of Hearts
+Jack of Diamonds
+5 of Clubs
+
+Hand 108:
+9 of Diamonds
+King of Hearts
+4 of Spades
+King of Spades
+King of Clubs
+
+Hand 109:
+King of Diamonds
+8 of Clubs
+4 of Clubs
+6 of Spades
+3 of Spades
+
+Hand 110:
+6 of Clubs
+3 of Diamonds
+Jack of Hearts
+5 of Spades
+Queen of Clubs
+
+Hand 111:
+Ace of Hearts
+10 of Diamonds
+5 of Hearts
+3 of Hearts
+2 of Clubs
+
+Hand 112:
+8 of Hearts
+Jack of Clubs
+7 of Clubs
+9 of Clubs
+Queen of Diamonds
+
+Hand 113:
+4 of Diamonds
+Queen of Hearts
+2 of Spades
+3 of Clubs
+2 of Diamonds
+
+Hand 114:
+7 of Diamonds
+8 of Spades
+9 of Hearts
+Queen of Spades
+Ace of Clubs
+
+Hand 115:
+4 of Hearts
+8 of Diamonds
+2 of Spades
+10 of Clubs
+8 of Hearts
+
+Hand 116:
+3 of Hearts
+Queen of Spades
+10 of Diamonds
+7 of Clubs
+8 of Spades
+
+Hand 117:
+6 of Spades
+King of Hearts
+Queen of Clubs
+6 of Hearts
+9 of Hearts
+
+Hand 118:
+10 of Hearts
+King of Spades
+5 of Diamonds
+Ace of Diamonds
+King of Diamonds
+
+Hand 119:
+Jack of Clubs
+Queen of Diamonds
+7 of Spades
+5 of Spades
+Jack of Hearts
+
+Hand 120:
+2 of Clubs
+8 of Clubs
+9 of Clubs
+King of Clubs
+Queen of Hearts
+
+Hand 121:
+Ace of Spades
+3 of Clubs
+9 of Spades
+2 of Hearts
+5 of Clubs
+
+Hand 122:
+10 of Spades
+4 of Hearts
+9 of Diamonds
+4 of Spades
+3 of Diamonds
+
+Hand 123:
+6 of Clubs
+Ace of Hearts
+7 of Diamonds
+4 of Diamonds
+5 of Hearts
+
+Hand 124:
+4 of Clubs
+2 of Diamonds
+Jack of Spades
+7 of Hearts
+Ace of Spades
+
+Hand 125:
+8 of Diamonds
+3 of Hearts
+Queen of Hearts
+Ace of Diamonds
+9 of Spades
+
+Hand 126:
+2 of Diamonds
+Jack of Diamonds
+5 of Diamonds
+4 of Spades
+5 of Hearts
+
+Hand 127:
+2 of Hearts
+10 of Diamonds
+10 of Clubs
+King of Spades
+3 of Diamonds
+
+Hand 128:
+4 of Clubs
+Queen of Clubs
+Jack of Spades
+10 of Hearts
+3 of Spades
+
+Hand 129:
+2 of Clubs
+Ace of Clubs
+9 of Hearts
+6 of Hearts
+Ace of Hearts
+
+Hand 130:
+Queen of Diamonds
+King of Clubs
+5 of Spades
+7 of Spades
+2 of Spades
+
+Hand 131:
+Jack of Clubs
+6 of Diamonds
+7 of Hearts
+6 of Clubs
+6 of Spades
+
+Hand 132:
+King of Hearts
+3 of Clubs
+10 of Spades
+9 of Diamonds
+7 of Clubs
+
+Hand 133:
+5 of Clubs
+Queen of Spades
+7 of Diamonds
+9 of Clubs
+Jack of Hearts
+
+Hand 134:
+4 of Diamonds
+4 of Hearts
+9 of Hearts
+10 of Hearts
+3 of Hearts
+
+Hand 135:
+Queen of Clubs
+3 of Spades
+6 of Diamonds
+Queen of Hearts
+Ace of Diamonds
+
+Hand 136:
+Ace of Hearts
+10 of Spades
+5 of Hearts
+Ace of Clubs
+4 of Spades
+
+Hand 137:
+7 of Diamonds
+3 of Clubs
+Jack of Diamonds
+King of Hearts
+4 of Clubs
+
+Hand 138:
+2 of Spades
+Jack of Spades
+6 of Spades
+5 of Diamonds
+2 of Hearts
+
+Hand 139:
+Ace of Spades
+8 of Spades
+7 of Hearts
+King of Clubs
+Queen of Spades
+
+Hand 140:
+10 of Diamonds
+7 of Spades
+8 of Clubs
+5 of Spades
+8 of Diamonds
+
+Hand 141:
+6 of Hearts
+2 of Clubs
+King of Diamonds
+9 of Spades
+4 of Diamonds
+
+Hand 142:
+3 of Diamonds
+King of Spades
+10 of Clubs
+7 of Clubs
+Jack of Hearts
+
+Hand 143:
+Jack of Clubs
+6 of Clubs
+9 of Clubs
+2 of Diamonds
+Queen of Diamonds
+
+Hand 144:
+6 of Hearts
+10 of Diamonds
+9 of Spades
+10 of Hearts
+7 of Diamonds
+
+Hand 145:
+Ace of Clubs
+Jack of Clubs
+Jack of Hearts
+8 of Spades
+10 of Spades
+
+Hand 146:
+9 of Clubs
+King of Spades
+5 of Clubs
+Queen of Clubs
+Ace of Spades
+
+Hand 147:
+6 of Diamonds
+4 of Clubs
+2 of Clubs
+Ace of Hearts
+4 of Hearts
+
+Hand 148:
+2 of Hearts
+3 of Hearts
+Ace of Diamonds
+4 of Spades
+Queen of Diamonds
+
+Hand 149:
+3 of Clubs
+5 of Diamonds
+5 of Hearts
+Jack of Diamonds
+Queen of Spades
+
+Hand 150:
+Jack of Spades
+10 of Clubs
+9 of Diamonds
+2 of Spades
+7 of Spades
+
+Hand 151:
+6 of Clubs
+8 of Hearts
+7 of Hearts
+King of Diamonds
+3 of Spades
+
+Hand 152:
+9 of Hearts
+3 of Diamonds
+8 of Diamonds
+4 of Diamonds
+8 of Clubs
+
+Hand 153:
+Queen of Hearts
+King of Hearts
+2 of Diamonds
+King of Diamonds
+9 of Diamonds
+
+Hand 154:
+6 of Diamonds
+Ace of Hearts
+4 of Spades
+King of Spades
+Ace of Diamonds
+
+Hand 155:
+7 of Clubs
+Ace of Spades
+Jack of Clubs
+9 of Clubs
+3 of Hearts
+
+Hand 156:
+Queen of Spades
+10 of Hearts
+Queen of Clubs
+Jack of Spades
+4 of Diamonds
+
+Hand 157:
+Queen of Hearts
+3 of Spades
+9 of Spades
+Ace of Clubs
+5 of Spades
+
+Hand 158:
+7 of Hearts
+King of Clubs
+4 of Hearts
+2 of Hearts
+4 of Clubs
+
+Hand 159:
+5 of Diamonds
+5 of Hearts
+7 of Diamonds
+10 of Clubs
+8 of Hearts
+
+Hand 160:
+6 of Spades
+5 of Clubs
+8 of Clubs
+7 of Spades
+King of Hearts
+
+Hand 161:
+3 of Diamonds
+Jack of Diamonds
+Queen of Diamonds
+2 of Clubs
+Jack of Hearts
+
+Hand 162:
+3 of Clubs
+10 of Spades
+6 of Hearts
+6 of Clubs
+10 of Diamonds
+
+Hand 163:
+2 of Spades
+10 of Spades
+8 of Clubs
+Jack of Hearts
+6 of Diamonds
+
+Hand 164:
+Queen of Spades
+8 of Spades
+King of Hearts
+Queen of Clubs
+4 of Hearts
+
+Hand 165:
+4 of Diamonds
+King of Diamonds
+10 of Diamonds
+7 of Spades
+8 of Diamonds
+
+Hand 166:
+6 of Spades
+2 of Spades
+6 of Clubs
+3 of Clubs
+2 of Hearts
+
+Hand 167:
+7 of Clubs
+5 of Diamonds
+8 of Hearts
+Ace of Clubs
+10 of Clubs
+
+Hand 168:
+9 of Diamonds
+Ace of Spades
+9 of Hearts
+2 of Diamonds
+5 of Spades
+
+Hand 169:
+King of Spades
+4 of Spades
+Jack of Clubs
+Queen of Diamonds
+5 of Clubs
+
+Hand 170:
+7 of Diamonds
+Jack of Spades
+4 of Clubs
+7 of Hearts
+Ace of Diamonds
+
+Hand 171:
+9 of Clubs
+10 of Hearts
+Jack of Diamonds
+King of Clubs
+3 of Diamonds
+
+Hand 172:
+3 of Spades
+5 of Hearts
+6 of Hearts
+Queen of Hearts
+Ace of Hearts
+
+Hand 173:
+6 of Hearts
+3 of Diamonds
+2 of Diamonds
+5 of Spades
+8 of Clubs
+
+Hand 174:
+2 of Clubs
+4 of Clubs
+6 of Clubs
+8 of Spades
+7 of Clubs
+
+Hand 175:
+2 of Spades
+7 of Hearts
+9 of Clubs
+7 of Spades
+8 of Hearts
+
+Hand 176:
+Ace of Diamonds
+10 of Diamonds
+3 of Hearts
+6 of Diamonds
+7 of Diamonds
+
+Hand 177:
+2 of Hearts
+9 of Spades
+Jack of Clubs
+5 of Diamonds
+Queen of Diamonds
+
+Hand 178:
+Queen of Hearts
+Jack of Hearts
+3 of Clubs
+4 of Diamonds
+9 of Hearts
+
+Hand 179:
+Jack of Diamonds
+King of Diamonds
+Queen of Spades
+9 of Diamonds
+6 of Spades
+
+Hand 180:
+10 of Spades
+King of Spades
+Ace of Spades
+8 of Diamonds
+4 of Spades
+
+Hand 181:
+3 of Spades
+5 of Clubs
+Jack of Spades
+4 of Hearts
+King of Clubs
+
+Hand 182:
+10 of Hearts
+Ace of Clubs
+Queen of Spades
+5 of Diamonds
+Jack of Diamonds
+
+Hand 183:
+Ace of Diamonds
+3 of Clubs
+Ace of Hearts
+5 of Clubs
+4 of Hearts
+
+Hand 184:
+7 of Diamonds
+2 of Hearts
+7 of Clubs
+4 of Diamonds
+3 of Hearts
+
+Hand 185:
+Queen of Clubs
+7 of Hearts
+8 of Hearts
+6 of Hearts
+Jack of Clubs
+
+Hand 186:
+2 of Spades
+King of Spades
+8 of Diamonds
+6 of Spades
+King of Clubs
+
+Hand 187:
+Ace of Clubs
+8 of Spades
+4 of Spades
+10 of Diamonds
+10 of Spades
+
+Hand 188:
+Jack of Hearts
+9 of Hearts
+6 of Clubs
+King of Hearts
+2 of Diamonds
+
+Hand 189:
+10 of Clubs
+7 of Spades
+9 of Clubs
+Queen of Hearts
+5 of Spades
+
+Hand 190:
+King of Diamonds
+Ace of Spades
+8 of Clubs
+6 of Diamonds
+2 of Clubs
+
+Hand 191:
+Jack of Spades
+3 of Spades
+4 of Clubs
+9 of Diamonds
+Queen of Diamonds
+
+Hand 192:
+Jack of Spades
+10 of Diamonds
+4 of Clubs
+8 of Clubs
+Ace of Spades
+
+Hand 193:
+8 of Spades
+6 of Clubs
+7 of Spades
+King of Spades
+9 of Clubs
+
+Hand 194:
+Queen of Hearts
+7 of Hearts
+5 of Diamonds
+2 of Diamonds
+7 of Diamonds
+
+Hand 195:
+Queen of Spades
+6 of Hearts
+Ace of Diamonds
+Jack of Clubs
+3 of Clubs
+
+Hand 196:
+10 of Hearts
+3 of Diamonds
+8 of Diamonds
+9 of Hearts
+Ace of Hearts
+
+Hand 197:
+7 of Clubs
+King of Diamonds
+2 of Hearts
+2 of Clubs
+Queen of Clubs
+
+Hand 198:
+5 of Spades
+3 of Spades
+6 of Spades
+5 of Hearts
+Jack of Diamonds
+
+Hand 199:
+8 of Hearts
+4 of Spades
+9 of Spades
+9 of Diamonds
+3 of Hearts
+
+Hand 200:
+Jack of Hearts
+Queen of Diamonds
+2 of Spades
+6 of Diamonds
+5 of Clubs
+
+Hand 201:
+King of Hearts
+4 of Hearts
+4 of Diamonds
+10 of Diamonds
+8 of Diamonds
+
+Hand 202:
+King of Spades
+Jack of Clubs
+9 of Spades
+7 of Clubs
+7 of Spades
+
+Hand 203:
+9 of Clubs
+Queen of Clubs
+5 of Spades
+6 of Clubs
+4 of Spades
+
+Hand 204:
+2 of Hearts
+King of Hearts
+7 of Hearts
+2 of Spades
+4 of Hearts
+
+Hand 205:
+3 of Hearts
+5 of Clubs
+King of Clubs
+6 of Spades
+8 of Hearts
+
+Hand 206:
+3 of Diamonds
+4 of Clubs
+9 of Hearts
+2 of Clubs
+3 of Spades
+
+Hand 207:
+10 of Hearts
+8 of Clubs
+Jack of Diamonds
+9 of Diamonds
+Jack of Hearts
+
+Hand 208:
+2 of Diamonds
+6 of Hearts
+6 of Diamonds
+10 of Spades
+Queen of Spades
+
+Hand 209:
+7 of Diamonds
+4 of Diamonds
+5 of Hearts
+8 of Spades
+Queen of Hearts
+
+Hand 210:
+5 of Diamonds
+King of Diamonds
+Ace of Spades
+Ace of Clubs
+Ace of Hearts
+
+Hand 211:
+10 of Clubs
+6 of Clubs
+10 of Spades
+7 of Spades
+King of Diamonds
+
+Hand 212:
+6 of Spades
+4 of Spades
+Ace of Hearts
+Ace of Clubs
+Ace of Diamonds
+
+Hand 213:
+9 of Hearts
+King of Spades
+Queen of Spades
+4 of Diamonds
+Queen of Clubs
+
+Hand 214:
+5 of Clubs
+9 of Diamonds
+5 of Hearts
+8 of Diamonds
+2 of Spades
+
+Hand 215:
+2 of Hearts
+9 of Spades
+3 of Hearts
+4 of Hearts
+2 of Clubs
+
+Hand 216:
+Ace of Spades
+10 of Diamonds
+10 of Hearts
+King of Clubs
+5 of Diamonds
+
+Hand 217:
+3 of Spades
+3 of Diamonds
+6 of Hearts
+8 of Spades
+7 of Clubs
+
+Hand 218:
+5 of Spades
+7 of Hearts
+2 of Diamonds
+Queen of Hearts
+3 of Clubs
+
+Hand 219:
+Jack of Clubs
+Jack of Diamonds
+9 of Clubs
+10 of Clubs
+Queen of Diamonds
+
+Hand 220:
+King of Hearts
+8 of Hearts
+Jack of Hearts
+8 of Clubs
+Queen of Diamonds
+
+Hand 221:
+10 of Spades
+Queen of Spades
+9 of Hearts
+7 of Diamonds
+4 of Diamonds
+
+Hand 222:
+5 of Spades
+Ace of Hearts
+10 of Diamonds
+Jack of Clubs
+King of Clubs
+
+Hand 223:
+King of Spades
+8 of Spades
+7 of Hearts
+5 of Clubs
+Queen of Hearts
+
+Hand 224:
+9 of Clubs
+9 of Spades
+6 of Clubs
+4 of Hearts
+2 of Spades
+
+Hand 225:
+3 of Hearts
+Ace of Clubs
+Queen of Clubs
+10 of Hearts
+9 of Diamonds
+
+Hand 226:
+4 of Clubs
+6 of Spades
+5 of Hearts
+3 of Clubs
+4 of Spades
+
+Hand 227:
+7 of Clubs
+6 of Hearts
+King of Diamonds
+King of Hearts
+10 of Clubs
+
+Hand 228:
+Ace of Diamonds
+8 of Clubs
+Jack of Spades
+8 of Diamonds
+7 of Spades
+
+Hand 229:
+8 of Hearts
+Ace of Spades
+Jack of Diamonds
+2 of Clubs
+2 of Diamonds
+
+Hand 230:
+Jack of Hearts
+5 of Diamonds
+10 of Diamonds
+8 of Hearts
+2 of Clubs
+
+Hand 231:
+5 of Diamonds
+Jack of Hearts
+3 of Diamonds
+Queen of Hearts
+5 of Spades
+
+Hand 232:
+King of Clubs
+10 of Clubs
+7 of Diamonds
+10 of Hearts
+Jack of Diamonds
+
+Hand 233:
+7 of Clubs
+Queen of Diamonds
+Jack of Spades
+Jack of Clubs
+8 of Clubs
+
+Hand 234:
+4 of Diamonds
+8 of Spades
+9 of Hearts
+7 of Hearts
+Ace of Clubs
+
+Hand 235:
+6 of Spades
+8 of Diamonds
+Ace of Hearts
+3 of Hearts
+Ace of Spades
+
+Hand 236:
+4 of Clubs
+King of Diamonds
+Queen of Clubs
+3 of Clubs
+9 of Clubs
+
+Hand 237:
+7 of Spades
+2 of Hearts
+5 of Hearts
+Ace of Diamonds
+2 of Spades
+
+Hand 238:
+4 of Hearts
+5 of Clubs
+9 of Diamonds
+4 of Spades
+3 of Spades
+
+Hand 239:
+King of Hearts
+Queen of Spades
+King of Spades
+6 of Clubs
+2 of Diamonds
+
+Hand 240:
+8 of Spades
+9 of Hearts
+Queen of Spades
+2 of Clubs
+9 of Clubs
+
+Hand 241:
+4 of Clubs
+King of Clubs
+6 of Spades
+6 of Diamonds
+Ace of Hearts
+
+Hand 242:
+4 of Hearts
+10 of Hearts
+9 of Diamonds
+2 of Hearts
+6 of Clubs
+
+Hand 243:
+2 of Spades
+Queen of Diamonds
+7 of Diamonds
+4 of Spades
+Jack of Hearts
+
+Hand 244:
+5 of Hearts
+4 of Diamonds
+Queen of Hearts
+3 of Hearts
+8 of Hearts
+
+Hand 245:
+Jack of Diamonds
+8 of Clubs
+10 of Diamonds
+Ace of Spades
+3 of Spades
+
+Hand 246:
+Jack of Clubs
+3 of Diamonds
+King of Diamonds
+10 of Spades
+Queen of Clubs
+
+Hand 247:
+8 of Diamonds
+5 of Spades
+Ace of Clubs
+King of Hearts
+King of Spades
+
+Hand 248:
+7 of Clubs
+2 of Diamonds
+5 of Diamonds
+5 of Clubs
+3 of Clubs
+
+Hand 249:
+Jack of Spades
+9 of Spades
+7 of Hearts
+5 of Hearts
+2 of Hearts
+
+Hand 250:
+Queen of Diamonds
+9 of Hearts
+3 of Diamonds
+5 of Clubs
+3 of Clubs
+
+Hand 251:
+5 of Diamonds
+Queen of Hearts
+7 of Hearts
+King of Hearts
+Ace of Clubs
+
+Hand 252:
+Ace of Diamonds
+2 of Spades
+7 of Spades
+4 of Clubs
+King of Diamonds
+
+Hand 253:
+3 of Spades
+10 of Spades
+9 of Diamonds
+10 of Hearts
+6 of Hearts
+
+Hand 254:
+10 of Clubs
+4 of Hearts
+2 of Diamonds
+4 of Spades
+Jack of Hearts
+
+Hand 255:
+King of Clubs
+3 of Hearts
+Ace of Spades
+8 of Diamonds
+9 of Clubs
+
+Hand 256:
+2 of Clubs
+7 of Clubs
+8 of Spades
+Jack of Diamonds
+Ace of Hearts
+
+Hand 257:
+6 of Clubs
+Queen of Clubs
+7 of Diamonds
+Queen of Spades
+5 of Spades
+
+Hand 258:
+King of Spades
+8 of Hearts
+Jack of Spades
+6 of Diamonds
+10 of Diamonds
+
+Hand 259:
+4 of Diamonds
+Jack of Spades
+5 of Hearts
+10 of Clubs
+Jack of Diamonds
+
+Hand 260:
+Jack of Clubs
+2 of Clubs
+King of Spades
+4 of Hearts
+Queen of Hearts
+
+Hand 261:
+8 of Diamonds
+2 of Diamonds
+4 of Spades
+9 of Hearts
+5 of Diamonds
+
+Hand 262:
+7 of Diamonds
+7 of Clubs
+King of Hearts
+6 of Clubs
+6 of Hearts
+
+Hand 263:
+2 of Spades
+8 of Hearts
+Ace of Clubs
+3 of Diamonds
+10 of Hearts
+
+Hand 264:
+5 of Clubs
+6 of Diamonds
+Ace of Hearts
+3 of Hearts
+9 of Clubs
+
+Hand 265:
+10 of Spades
+7 of Hearts
+3 of Spades
+3 of Clubs
+Jack of Hearts
+
+Hand 266:
+2 of Hearts
+Queen of Clubs
+8 of Spades
+4 of Clubs
+Ace of Diamonds
+
+Hand 267:
+4 of Diamonds
+6 of Spades
+10 of Diamonds
+Ace of Spades
+Queen of Diamonds
+
+Hand 268:
+5 of Spades
+King of Diamonds
+7 of Spades
+9 of Diamonds
+7 of Diamonds
+
+Hand 269:
+9 of Diamonds
+8 of Clubs
+10 of Diamonds
+2 of Spades
+Jack of Spades
+
+Hand 270:
+King of Spades
+Queen of Spades
+Queen of Hearts
+4 of Clubs
+Queen of Diamonds
+
+Hand 271:
+2 of Clubs
+3 of Spades
+2 of Hearts
+6 of Hearts
+6 of Diamonds
+
+Hand 272:
+10 of Hearts
+10 of Spades
+7 of Spades
+7 of Clubs
+4 of Hearts
+
+Hand 273:
+Jack of Hearts
+3 of Clubs
+Ace of Clubs
+Jack of Clubs
+Ace of Hearts
+
+Hand 274:
+4 of Diamonds
+9 of Hearts
+9 of Spades
+9 of Clubs
+7 of Hearts
+
+Hand 275:
+3 of Diamonds
+5 of Diamonds
+King of Hearts
+4 of Spades
+Queen of Clubs
+
+Hand 276:
+5 of Clubs
+6 of Clubs
+Ace of Diamonds
+5 of Spades
+10 of Clubs
+
+Hand 277:
+8 of Diamonds
+2 of Diamonds
+3 of Hearts
+King of Diamonds
+8 of Hearts
+
+Hand 278:
+King of Clubs
+5 of Hearts
+Ace of Spades
+9 of Diamonds
+5 of Diamonds
+
+Hand 279:
+6 of Hearts
+2 of Diamonds
+8 of Diamonds
+4 of Clubs
+Jack of Clubs
+
+Hand 280:
+10 of Hearts
+10 of Spades
+5 of Clubs
+6 of Clubs
+3 of Spades
+
+Hand 281:
+10 of Diamonds
+King of Spades
+8 of Spades
+9 of Hearts
+7 of Spades
+
+Hand 282:
+2 of Spades
+King of Hearts
+4 of Hearts
+Jack of Diamonds
+King of Diamonds
+
+Hand 283:
+8 of Clubs
+Queen of Hearts
+2 of Hearts
+7 of Diamonds
+Ace of Diamonds
+
+Hand 284:
+3 of Hearts
+King of Clubs
+Jack of Spades
+6 of Spades
+7 of Hearts
+
+Hand 285:
+10 of Clubs
+6 of Diamonds
+9 of Clubs
+5 of Hearts
+Jack of Hearts
+
+Hand 286:
+Ace of Hearts
+Queen of Spades
+3 of Diamonds
+2 of Clubs
+Ace of Clubs
+
+Hand 287:
+Queen of Clubs
+4 of Spades
+3 of Clubs
+9 of Spades
+4 of Diamonds
+
+Hand 288:
+5 of Diamonds
+4 of Diamonds
+10 of Hearts
+Queen of Clubs
+8 of Clubs
+
+Hand 289:
+10 of Diamonds
+Jack of Spades
+5 of Hearts
+9 of Diamonds
+5 of Clubs
+
+Hand 290:
+Ace of Spades
+7 of Clubs
+3 of Hearts
+6 of Hearts
+Ace of Hearts
+
+Hand 291:
+6 of Diamonds
+9 of Clubs
+Queen of Spades
+6 of Spades
+2 of Spades
+
+Hand 292:
+Ace of Diamonds
+9 of Spades
+2 of Clubs
+Queen of Diamonds
+7 of Spades
+
+Hand 293:
+2 of Diamonds
+King of Clubs
+7 of Diamonds
+Jack of Hearts
+Jack of Diamonds
+
+Hand 294:
+King of Spades
+4 of Spades
+10 of Spades
+3 of Clubs
+8 of Hearts
+
+Hand 295:
+8 of Diamonds
+Queen of Hearts
+King of Diamonds
+5 of Spades
+10 of Clubs
+
+Hand 296:
+9 of Hearts
+3 of Diamonds
+7 of Hearts
+8 of Spades
+King of Hearts
+
+Hand 297:
+3 of Spades
+4 of Hearts
+6 of Clubs
+King of Diamonds
+3 of Diamonds
+
+Hand 298:
+4 of Diamonds
+7 of Spades
+King of Clubs
+8 of Hearts
+7 of Clubs
+
+Hand 299:
+Jack of Diamonds
+7 of Diamonds
+5 of Spades
+Ace of Hearts
+King of Hearts
+
+Hand 300:
+6 of Diamonds
+Jack of Hearts
+9 of Spades
+Queen of Diamonds
+Ace of Spades
+
+Hand 301:
+7 of Hearts
+8 of Clubs
+Queen of Clubs
+10 of Spades
+4 of Hearts
+
+Hand 302:
+3 of Spades
+6 of Hearts
+4 of Spades
+Queen of Spades
+2 of Hearts
+
+Hand 303:
+Jack of Clubs
+10 of Clubs
+9 of Diamonds
+3 of Hearts
+10 of Diamonds
+
+Hand 304:
+8 of Spades
+3 of Clubs
+5 of Clubs
+9 of Clubs
+2 of Clubs
+
+Hand 305:
+2 of Spades
+Ace of Diamonds
+6 of Clubs
+6 of Spades
+5 of Hearts
+
+Hand 306:
+Ace of Clubs
+Jack of Spades
+Queen of Hearts
+10 of Hearts
+King of Spades
+
+Hand 307:
+8 of Diamonds
+10 of Spades
+9 of Diamonds
+2 of Diamonds
+4 of Clubs
+
+Hand 308:
+3 of Hearts
+6 of Hearts
+4 of Diamonds
+2 of Clubs
+10 of Diamonds
+
+Hand 309:
+King of Hearts
+8 of Spades
+10 of Hearts
+8 of Hearts
+2 of Spades
+
+Hand 310:
+6 of Spades
+King of Clubs
+7 of Diamonds
+Jack of Hearts
+Ace of Hearts
+
+Hand 311:
+5 of Diamonds
+Queen of Hearts
+3 of Clubs
+3 of Diamonds
+Queen of Diamonds
+
+Hand 312:
+2 of Hearts
+Ace of Clubs
+Queen of Spades
+Ace of Spades
+King of Spades
+
+Hand 313:
+9 of Hearts
+Jack of Spades
+6 of Clubs
+4 of Hearts
+8 of Diamonds
+
+Hand 314:
+3 of Spades
+Ace of Diamonds
+Jack of Diamonds
+5 of Clubs
+8 of Clubs
+
+Hand 315:
+4 of Spades
+5 of Spades
+9 of Clubs
+10 of Clubs
+7 of Clubs
+
+Hand 316:
+Queen of Clubs
+9 of Spades
+7 of Spades
+7 of Hearts
+3 of Hearts
+
+Hand 317:
+4 of Hearts
+King of Clubs
+7 of Hearts
+2 of Spades
+9 of Diamonds
+
+Hand 318:
+10 of Spades
+Jack of Spades
+Jack of Clubs
+6 of Diamonds
+4 of Diamonds
+
+Hand 319:
+Jack of Diamonds
+9 of Hearts
+2 of Clubs
+9 of Spades
+9 of Clubs
+
+Hand 320:
+6 of Clubs
+Queen of Hearts
+8 of Clubs
+7 of Clubs
+3 of Clubs
+
+Hand 321:
+3 of Diamonds
+4 of Spades
+10 of Diamonds
+Queen of Spades
+6 of Spades
+
+Hand 322:
+7 of Diamonds
+5 of Diamonds
+Ace of Hearts
+Queen of Clubs
+Ace of Diamonds
+
+Hand 323:
+2 of Hearts
+King of Hearts
+7 of Spades
+King of Spades
+4 of Clubs
+
+Hand 324:
+Jack of Hearts
+2 of Diamonds
+Ace of Clubs
+Ace of Spades
+10 of Hearts
+
+Hand 325:
+5 of Hearts
+8 of Spades
+5 of Spades
+10 of Clubs
+5 of Clubs
+
+Hand 326:
+Queen of Diamonds
+King of Diamonds
+King of Hearts
+6 of Clubs
+5 of Spades
+
+Hand 327:
+10 of Spades
+9 of Clubs
+4 of Hearts
+10 of Clubs
+9 of Spades
+
+Hand 328:
+2 of Spades
+3 of Hearts
+5 of Clubs
+9 of Hearts
+4 of Clubs
+
+Hand 329:
+Ace of Hearts
+5 of Hearts
+5 of Diamonds
+Jack of Hearts
+Ace of Diamonds
+
+Hand 330:
+8 of Diamonds
+King of Diamonds
+Jack of Spades
+10 of Hearts
+Ace of Spades
+
+Hand 331:
+4 of Diamonds
+7 of Hearts
+6 of Hearts
+7 of Spades
+6 of Diamonds
+
+Hand 332:
+Queen of Spades
+8 of Spades
+6 of Spades
+7 of Clubs
+Queen of Hearts
+
+Hand 333:
+8 of Clubs
+10 of Diamonds
+Jack of Clubs
+King of Clubs
+Ace of Clubs
+
+Hand 334:
+King of Spades
+8 of Hearts
+4 of Spades
+3 of Diamonds
+3 of Spades
+
+Hand 335:
+2 of Hearts
+2 of Diamonds
+9 of Diamonds
+2 of Clubs
+Queen of Clubs
+
+Hand 336:
+4 of Diamonds
+6 of Diamonds
+9 of Clubs
+Queen of Spades
+6 of Hearts
+
+Hand 337:
+Queen of Hearts
+7 of Clubs
+6 of Clubs
+5 of Spades
+King of Diamonds
+
+Hand 338:
+8 of Hearts
+7 of Hearts
+Ace of Diamonds
+3 of Hearts
+7 of Diamonds
+
+Hand 339:
+8 of Diamonds
+9 of Diamonds
+10 of Spades
+Jack of Diamonds
+2 of Spades
+
+Hand 340:
+10 of Diamonds
+2 of Clubs
+Jack of Spades
+2 of Diamonds
+2 of Hearts
+
+Hand 341:
+8 of Clubs
+Queen of Clubs
+4 of Spades
+7 of Spades
+3 of Diamonds
+
+Hand 342:
+4 of Clubs
+3 of Clubs
+10 of Clubs
+Ace of Spades
+5 of Clubs
+
+Hand 343:
+9 of Hearts
+Queen of Diamonds
+6 of Spades
+5 of Diamonds
+5 of Hearts
+
+Hand 344:
+Ace of Hearts
+King of Spades
+Jack of Clubs
+8 of Spades
+Jack of Hearts
+
+Hand 345:
+3 of Spades
+King of Hearts
+10 of Hearts
+5 of Spades
+8 of Clubs
+
+Hand 346:
+6 of Hearts
+9 of Spades
+Jack of Hearts
+King of Clubs
+4 of Clubs
+
+Hand 347:
+Queen of Diamonds
+King of Hearts
+7 of Diamonds
+2 of Hearts
+Jack of Diamonds
+
+Hand 348:
+Queen of Hearts
+8 of Spades
+9 of Hearts
+3 of Diamonds
+2 of Spades
+
+Hand 349:
+7 of Hearts
+4 of Hearts
+4 of Diamonds
+3 of Spades
+King of Diamonds
+
+Hand 350:
+10 of Clubs
+Jack of Clubs
+5 of Clubs
+7 of Clubs
+10 of Diamonds
+
+Hand 351:
+2 of Diamonds
+Queen of Clubs
+7 of Spades
+8 of Diamonds
+6 of Clubs
+
+Hand 352:
+3 of Hearts
+2 of Clubs
+10 of Spades
+6 of Spades
+9 of Diamonds
+
+Hand 353:
+10 of Hearts
+Ace of Clubs
+Ace of Diamonds
+5 of Hearts
+6 of Diamonds
+
+Hand 354:
+8 of Hearts
+5 of Diamonds
+King of Spades
+9 of Clubs
+3 of Clubs
+
+Hand 355:
+Queen of Spades
+9 of Spades
+7 of Hearts
+5 of Spades
+King of Clubs
+
+Hand 356:
+5 of Diamonds
+Jack of Hearts
+Ace of Spades
+10 of Clubs
+Queen of Clubs
+
+Hand 357:
+Jack of Spades
+Queen of Diamonds
+5 of Hearts
+King of Hearts
+4 of Hearts
+
+Hand 358:
+2 of Diamonds
+5 of Clubs
+3 of Spades
+Jack of Clubs
+4 of Diamonds
+
+Hand 359:
+4 of Spades
+6 of Hearts
+Ace of Hearts
+8 of Spades
+9 of Clubs
+
+Hand 360:
+8 of Clubs
+8 of Hearts
+3 of Diamonds
+King of Diamonds
+2 of Hearts
+
+Hand 361:
+4 of Clubs
+10 of Hearts
+6 of Diamonds
+10 of Spades
+2 of Spades
+
+Hand 362:
+7 of Spades
+Queen of Hearts
+9 of Hearts
+Queen of Spades
+7 of Clubs
+
+Hand 363:
+10 of Diamonds
+6 of Clubs
+6 of Spades
+3 of Hearts
+8 of Diamonds
+
+Hand 364:
+7 of Diamonds
+2 of Clubs
+King of Spades
+9 of Diamonds
+8 of Spades
+
+Hand 365:
+3 of Clubs
+6 of Diamonds
+9 of Diamonds
+Ace of Hearts
+4 of Diamonds
+
+Hand 366:
+5 of Diamonds
+7 of Spades
+2 of Spades
+10 of Diamonds
+2 of Diamonds
+
+Hand 367:
+7 of Diamonds
+6 of Hearts
+8 of Clubs
+Ace of Spades
+2 of Hearts
+
+Hand 368:
+Jack of Spades
+Queen of Spades
+5 of Clubs
+King of Clubs
+Queen of Diamonds
+
+Hand 369:
+4 of Spades
+2 of Clubs
+3 of Spades
+8 of Diamonds
+9 of Clubs
+
+Hand 370:
+Ace of Diamonds
+8 of Hearts
+10 of Spades
+10 of Hearts
+Queen of Hearts
+
+Hand 371:
+9 of Spades
+Queen of Clubs
+3 of Hearts
+3 of Diamonds
+4 of Hearts
+
+Hand 372:
+Jack of Clubs
+4 of Clubs
+5 of Hearts
+5 of Spades
+Jack of Diamonds
+
+Hand 373:
+6 of Clubs
+King of Hearts
+7 of Clubs
+King of Diamonds
+9 of Hearts
+
+Hand 374:
+7 of Hearts
+Jack of Hearts
+6 of Hearts
+3 of Diamonds
+8 of Spades
+
+Hand 375:
+2 of Hearts
+9 of Hearts
+7 of Spades
+9 of Spades
+4 of Diamonds
+
+Hand 376:
+8 of Diamonds
+2 of Clubs
+2 of Diamonds
+4 of Spades
+10 of Diamonds
+
+Hand 377:
+King of Clubs
+7 of Diamonds
+7 of Hearts
+6 of Spades
+6 of Diamonds
+
+Hand 378:
+3 of Hearts
+5 of Clubs
+King of Hearts
+Ace of Clubs
+4 of Hearts
+
+Hand 379:
+5 of Spades
+5 of Diamonds
+7 of Clubs
+King of Spades
+8 of Hearts
+
+Hand 380:
+3 of Clubs
+3 of Spades
+Jack of Diamonds
+6 of Clubs
+10 of Clubs
+
+Hand 381:
+Ace of Spades
+King of Diamonds
+8 of Clubs
+Ace of Diamonds
+Queen of Diamonds
+
+Hand 382:
+5 of Hearts
+4 of Clubs
+9 of Diamonds
+10 of Hearts
+Queen of Spades
+
+Hand 383:
+2 of Spades
+Queen of Clubs
+Queen of Hearts
+Jack of Spades
+10 of Spades
+
+Hand 384:
+6 of Hearts
+5 of Diamonds
+6 of Spades
+7 of Spades
+King of Clubs
+
+Hand 385:
+7 of Clubs
+9 of Hearts
+Ace of Hearts
+5 of Clubs
+King of Hearts
+
+Hand 386:
+4 of Hearts
+Queen of Hearts
+King of Spades
+Jack of Diamonds
+9 of Diamonds
+
+Hand 387:
+8 of Diamonds
+Jack of Clubs
+King of Diamonds
+10 of Hearts
+Ace of Spades
+
+Hand 388:
+Jack of Hearts
+8 of Hearts
+3 of Spades
+10 of Spades
+Queen of Spades
+
+Hand 389:
+Queen of Diamonds
+9 of Spades
+3 of Diamonds
+8 of Clubs
+2 of Diamonds
+
+Hand 390:
+10 of Diamonds
+Queen of Clubs
+Ace of Clubs
+7 of Diamonds
+Jack of Spades
+
+Hand 391:
+4 of Diamonds
+4 of Clubs
+5 of Spades
+2 of Spades
+6 of Clubs
+
+Hand 392:
+3 of Clubs
+9 of Clubs
+10 of Clubs
+2 of Hearts
+6 of Diamonds
+
+Hand 393:
+2 of Clubs
+8 of Spades
+4 of Spades
+4 of Hearts
+7 of Diamonds
+
+Hand 394:
+10 of Clubs
+Queen of Diamonds
+3 of Diamonds
+5 of Diamonds
+Queen of Hearts
+
+Hand 395:
+Jack of Diamonds
+4 of Spades
+Queen of Clubs
+3 of Hearts
+3 of Clubs
+
+Hand 396:
+5 of Clubs
+3 of Spades
+8 of Hearts
+2 of Hearts
+8 of Spades
+
+Hand 397:
+10 of Hearts
+King of Diamonds
+4 of Clubs
+6 of Spades
+2 of Clubs
+
+Hand 398:
+2 of Spades
+7 of Clubs
+9 of Hearts
+King of Hearts
+5 of Hearts
+
+Hand 399:
+9 of Clubs
+Jack of Hearts
+7 of Spades
+Ace of Hearts
+King of Spades
+
+Hand 400:
+7 of Hearts
+Jack of Spades
+6 of Diamonds
+6 of Clubs
+10 of Spades
+
+Hand 401:
+Jack of Clubs
+6 of Hearts
+2 of Diamonds
+Queen of Spades
+Ace of Spades
+
+Hand 402:
+8 of Clubs
+8 of Diamonds
+10 of Diamonds
+9 of Spades
+Ace of Clubs
+
+Hand 403:
+Ace of Diamonds
+4 of Diamonds
+Ace of Clubs
+5 of Hearts
+3 of Spades
+
+Hand 404:
+8 of Spades
+Jack of Spades
+Jack of Diamonds
+8 of Clubs
+King of Clubs
+
+Hand 405:
+10 of Spades
+Ace of Hearts
+5 of Clubs
+7 of Clubs
+7 of Spades
+
+Hand 406:
+8 of Hearts
+5 of Diamonds
+4 of Clubs
+9 of Spades
+7 of Hearts
+
+Hand 407:
+6 of Diamonds
+2 of Hearts
+6 of Spades
+8 of Diamonds
+9 of Clubs
+
+Hand 408:
+Ace of Diamonds
+King of Hearts
+10 of Diamonds
+Jack of Clubs
+2 of Diamonds
+
+Hand 409:
+Queen of Hearts
+7 of Diamonds
+2 of Spades
+5 of Spades
+2 of Clubs
+
+Hand 410:
+4 of Hearts
+Queen of Clubs
+3 of Clubs
+King of Diamonds
+10 of Hearts
+
+Hand 411:
+6 of Hearts
+Ace of Spades
+King of Spades
+Queen of Diamonds
+Jack of Hearts
+
+Hand 412:
+3 of Diamonds
+4 of Spades
+6 of Clubs
+3 of Hearts
+Queen of Hearts
+
+Hand 413:
+7 of Clubs
+2 of Diamonds
+King of Clubs
+8 of Spades
+8 of Diamonds
+
+Hand 414:
+8 of Clubs
+6 of Hearts
+9 of Clubs
+King of Spades
+3 of Hearts
+
+Hand 415:
+10 of Spades
+8 of Hearts
+5 of Spades
+2 of Clubs
+2 of Spades
+
+Hand 416:
+Jack of Spades
+6 of Clubs
+3 of Diamonds
+9 of Diamonds
+6 of Diamonds
+
+Hand 417:
+4 of Clubs
+Ace of Spades
+5 of Hearts
+4 of Diamonds
+10 of Diamonds
+
+Hand 418:
+Jack of Diamonds
+Queen of Diamonds
+9 of Hearts
+6 of Spades
+Queen of Clubs
+
+Hand 419:
+4 of Spades
+4 of Hearts
+7 of Diamonds
+10 of Hearts
+King of Hearts
+
+Hand 420:
+5 of Diamonds
+Ace of Clubs
+Queen of Spades
+Jack of Hearts
+Jack of Clubs
+
+Hand 421:
+7 of Hearts
+King of Diamonds
+5 of Clubs
+10 of Clubs
+Ace of Hearts
+
+Hand 422:
+Ace of Diamonds
+7 of Spades
+6 of Clubs
+3 of Clubs
+5 of Clubs
+
+Hand 423:
+King of Diamonds
+6 of Diamonds
+3 of Diamonds
+King of Clubs
+5 of Spades
+
+Hand 424:
+6 of Spades
+King of Spades
+7 of Clubs
+Jack of Diamonds
+2 of Spades
+
+Hand 425:
+10 of Hearts
+Queen of Clubs
+2 of Diamonds
+9 of Clubs
+King of Hearts
+
+Hand 426:
+7 of Spades
+Jack of Spades
+Ace of Hearts
+4 of Diamonds
+10 of Diamonds
+
+Hand 427:
+Queen of Spades
+3 of Spades
+4 of Spades
+2 of Hearts
+10 of Clubs
+
+Hand 428:
+5 of Diamonds
+Ace of Clubs
+7 of Hearts
+4 of Clubs
+Queen of Hearts
+
+Hand 429:
+Ace of Spades
+Jack of Hearts
+Queen of Diamonds
+2 of Clubs
+8 of Diamonds
+
+Hand 430:
+9 of Diamonds
+Ace of Diamonds
+6 of Hearts
+9 of Hearts
+7 of Diamonds
+
+Hand 431:
+Jack of Clubs
+3 of Hearts
+9 of Spades
+8 of Spades
+4 of Hearts
+
+Hand 432:
+3 of Clubs
+2 of Diamonds
+8 of Hearts
+9 of Clubs
+King of Diamonds
+
+Hand 433:
+5 of Clubs
+2 of Hearts
+5 of Spades
+2 of Clubs
+5 of Diamonds
+
+Hand 434:
+5 of Hearts
+7 of Diamonds
+8 of Diamonds
+King of Hearts
+6 of Hearts
+
+Hand 435:
+7 of Spades
+9 of Diamonds
+King of Clubs
+6 of Clubs
+10 of Hearts
+
+Hand 436:
+Ace of Spades
+Queen of Spades
+King of Spades
+Queen of Hearts
+Ace of Diamonds
+
+Hand 437:
+10 of Diamonds
+Queen of Clubs
+8 of Clubs
+Jack of Clubs
+Ace of Clubs
+
+Hand 438:
+2 of Spades
+9 of Hearts
+3 of Hearts
+7 of Hearts
+4 of Spades
+
+Hand 439:
+3 of Spades
+4 of Clubs
+Jack of Spades
+3 of Diamonds
+4 of Diamonds
+
+Hand 440:
+Ace of Hearts
+8 of Spades
+Queen of Diamonds
+7 of Clubs
+4 of Hearts
+
+Hand 441:
+Jack of Hearts
+6 of Spades
+6 of Diamonds
+2 of Clubs
+8 of Clubs
+
+Hand 442:
+10 of Diamonds
+Jack of Clubs
+Ace of Hearts
+3 of Diamonds
+9 of Spades
+
+Hand 443:
+Ace of Spades
+7 of Clubs
+6 of Hearts
+Queen of Spades
+8 of Hearts
+
+Hand 444:
+9 of Diamonds
+2 of Spades
+King of Spades
+8 of Spades
+King of Hearts
+
+Hand 445:
+10 of Clubs
+7 of Spades
+Jack of Diamonds
+Queen of Hearts
+Queen of Clubs
+
+Hand 446:
+4 of Hearts
+5 of Hearts
+King of Clubs
+Ace of Clubs
+5 of Clubs
+
+Hand 447:
+Ace of Diamonds
+4 of Diamonds
+3 of Clubs
+9 of Clubs
+Jack of Spades
+
+Hand 448:
+2 of Diamonds
+7 of Diamonds
+7 of Hearts
+5 of Diamonds
+10 of Spades
+
+Hand 449:
+8 of Diamonds
+Jack of Hearts
+King of Diamonds
+4 of Clubs
+6 of Clubs
+
+Hand 450:
+5 of Spades
+6 of Spades
+3 of Hearts
+9 of Hearts
+Queen of Diamonds
+
+Hand 451:
+4 of Spades
+King of Clubs
+Queen of Spades
+Queen of Diamonds
+3 of Diamonds
+
+Hand 452:
+King of Spades
+3 of Hearts
+6 of Clubs
+2 of Clubs
+7 of Spades
+
+Hand 453:
+Jack of Clubs
+King of Diamonds
+5 of Hearts
+7 of Hearts
+8 of Clubs
+
+Hand 454:
+2 of Hearts
+4 of Hearts
+7 of Clubs
+10 of Clubs
+6 of Hearts
+
+Hand 455:
+9 of Diamonds
+8 of Diamonds
+6 of Spades
+Ace of Hearts
+Ace of Spades
+
+Hand 456:
+9 of Clubs
+4 of Diamonds
+8 of Spades
+4 of Spades
+Jack of Hearts
+
+Hand 457:
+Queen of Hearts
+2 of Spades
+Jack of Diamonds
+King of Hearts
+7 of Diamonds
+
+Hand 458:
+2 of Diamonds
+10 of Hearts
+5 of Clubs
+8 of Hearts
+5 of Diamonds
+
+Hand 459:
+6 of Diamonds
+5 of Spades
+Ace of Diamonds
+4 of Clubs
+Jack of Spades
+
+Hand 460:
+3 of Spades
+10 of Spades
+10 of Diamonds
+9 of Spades
+8 of Diamonds
+
+Hand 461:
+King of Clubs
+Queen of Diamonds
+9 of Spades
+2 of Spades
+7 of Diamonds
+
+Hand 462:
+8 of Hearts
+9 of Hearts
+5 of Clubs
+7 of Clubs
+Jack of Spades
+
+Hand 463:
+Ace of Hearts
+Queen of Spades
+3 of Hearts
+9 of Diamonds
+4 of Clubs
+
+Hand 464:
+6 of Clubs
+10 of Spades
+King of Spades
+5 of Spades
+2 of Diamonds
+
+Hand 465:
+Queen of Clubs
+5 of Diamonds
+10 of Clubs
+6 of Spades
+3 of Clubs
+
+Hand 466:
+3 of Diamonds
+Jack of Clubs
+7 of Spades
+Ace of Clubs
+8 of Spades
+
+Hand 467:
+4 of Diamonds
+Jack of Diamonds
+King of Hearts
+9 of Clubs
+6 of Diamonds
+
+Hand 468:
+2 of Hearts
+4 of Hearts
+Queen of Hearts
+Ace of Spades
+5 of Hearts
+
+Hand 469:
+10 of Diamonds
+Ace of Diamonds
+8 of Clubs
+7 of Hearts
+Jack of Hearts
+
+Hand 470:
+2 of Clubs
+3 of Spades
+5 of Diamonds
+Jack of Spades
+Queen of Hearts
+
+Hand 471:
+3 of Spades
+7 of Clubs
+Jack of Hearts
+10 of Spades
+8 of Diamonds
+
+Hand 472:
+6 of Clubs
+4 of Spades
+8 of Clubs
+10 of Hearts
+5 of Spades
+
+Hand 473:
+7 of Diamonds
+10 of Diamonds
+4 of Diamonds
+Queen of Spades
+Ace of Clubs
+
+Hand 474:
+6 of Hearts
+7 of Hearts
+King of Spades
+Ace of Spades
+9 of Spades
+
+Hand 475:
+8 of Hearts
+2 of Hearts
+9 of Clubs
+Queen of Clubs
+5 of Clubs
+
+Hand 476:
+8 of Spades
+King of Hearts
+4 of Clubs
+2 of Diamonds
+King of Clubs
+
+Hand 477:
+9 of Diamonds
+10 of Clubs
+5 of Hearts
+6 of Diamonds
+Jack of Diamonds
+
+Hand 478:
+4 of Hearts
+3 of Diamonds
+3 of Clubs
+Jack of Clubs
+6 of Spades
+
+Hand 479:
+Ace of Hearts
+King of Diamonds
+Ace of Diamonds
+2 of Spades
+Queen of Diamonds
+
+Hand 480:
+Ace of Clubs
+3 of Hearts
+Jack of Diamonds
+Ace of Diamonds
+Ace of Spades
+
+Hand 481:
+8 of Clubs
+2 of Clubs
+Jack of Clubs
+9 of Clubs
+3 of Clubs
+
+Hand 482:
+6 of Clubs
+King of Spades
+7 of Diamonds
+King of Clubs
+King of Hearts
+
+Hand 483:
+5 of Spades
+Queen of Hearts
+10 of Diamonds
+6 of Hearts
+Jack of Hearts
+
+Hand 484:
+10 of Hearts
+3 of Diamonds
+10 of Clubs
+7 of Spades
+5 of Clubs
+
+Hand 485:
+8 of Spades
+Jack of Spades
+5 of Diamonds
+10 of Spades
+2 of Hearts
+
+Hand 486:
+4 of Spades
+8 of Hearts
+6 of Spades
+2 of Spades
+4 of Clubs
+
+Hand 487:
+King of Diamonds
+7 of Clubs
+Queen of Clubs
+9 of Hearts
+6 of Diamonds
+
+Hand 488:
+Queen of Diamonds
+9 of Diamonds
+5 of Hearts
+3 of Spades
+Ace of Hearts
+
+Hand 489:
+Queen of Spades
+4 of Hearts
+4 of Diamonds
+5 of Clubs
+10 of Diamonds
+
+Hand 490:
+8 of Clubs
+9 of Hearts
+7 of Spades
+2 of Spades
+9 of Clubs
+
+Hand 491:
+8 of Hearts
+10 of Clubs
+10 of Spades
+8 of Diamonds
+7 of Diamonds
+
+Hand 492:
+4 of Spades
+Jack of Clubs
+Jack of Hearts
+5 of Spades
+Queen of Diamonds
+
+Hand 493:
+Ace of Hearts
+4 of Hearts
+King of Clubs
+Jack of Spades
+9 of Diamonds
+
+Hand 494:
+King of Hearts
+6 of Diamonds
+Queen of Clubs
+2 of Clubs
+King of Spades
+
+Hand 495:
+4 of Clubs
+6 of Hearts
+5 of Hearts
+7 of Clubs
+3 of Hearts
+
+Hand 496:
+Ace of Clubs
+2 of Hearts
+9 of Spades
+6 of Clubs
+4 of Diamonds
+
+Hand 497:
+2 of Diamonds
+10 of Hearts
+Ace of Spades
+Ace of Diamonds
+5 of Diamonds
+
+Hand 498:
+3 of Spades
+7 of Hearts
+Jack of Diamonds
+3 of Clubs
+Queen of Spades
+
+Hand 499:
+Queen of Hearts
+Queen of Hearts
+King of Hearts
+10 of Clubs
+7 of Spades
+
+Hand 500:
+5 of Hearts
+5 of Spades
+8 of Clubs
+King of Spades
+4 of Diamonds
+
+Hand 501:
+Jack of Hearts
+3 of Diamonds
+8 of Spades
+4 of Hearts
+Jack of Spades
+
+Hand 502:
+3 of Clubs
+Ace of Spades
+3 of Hearts
+Queen of Clubs
+8 of Diamonds
+
+Hand 503:
+6 of Diamonds
+9 of Hearts
+4 of Clubs
+King of Diamonds
+7 of Diamonds
+
+Hand 504:
+3 of Spades
+Ace of Clubs
+Ace of Hearts
+King of Clubs
+8 of Hearts
+
+Hand 505:
+5 of Clubs
+7 of Hearts
+6 of Clubs
+2 of Clubs
+Jack of Diamonds
+
+Hand 506:
+Ace of Diamonds
+Queen of Spades
+6 of Spades
+6 of Hearts
+2 of Spades
+
+Hand 507:
+2 of Hearts
+Queen of Diamonds
+5 of Diamonds
+10 of Spades
+10 of Diamonds
+
+Hand 508:
+9 of Diamonds
+4 of Spades
+7 of Clubs
+10 of Hearts
+King of Spades
+
+Hand 509:
+8 of Hearts
+3 of Hearts
+2 of Diamonds
+10 of Clubs
+10 of Spades
+
+Hand 510:
+8 of Spades
+Ace of Diamonds
+4 of Spades
+2 of Spades
+5 of Clubs
+
+Hand 511:
+3 of Spades
+King of Hearts
+4 of Hearts
+Queen of Diamonds
+10 of Hearts
+
+Hand 512:
+King of Clubs
+2 of Hearts
+Jack of Clubs
+5 of Hearts
+6 of Hearts
+
+Hand 513:
+9 of Hearts
+Ace of Spades
+Queen of Clubs
+4 of Clubs
+Jack of Hearts
+
+Hand 514:
+7 of Clubs
+Jack of Spades
+9 of Clubs
+5 of Diamonds
+Queen of Hearts
+
+Hand 515:
+8 of Diamonds
+3 of Clubs
+Ace of Clubs
+8 of Clubs
+King of Diamonds
+
+Hand 516:
+3 of Diamonds
+Ace of Hearts
+10 of Diamonds
+Queen of Spades
+6 of Clubs
+
+Hand 517:
+7 of Hearts
+6 of Diamonds
+9 of Diamonds
+6 of Spades
+Jack of Diamonds
+
+Hand 518:
+5 of Spades
+2 of Clubs
+3 of Clubs
+King of Spades
+8 of Clubs
+
+Hand 519:
+Jack of Diamonds
+6 of Diamonds
+9 of Clubs
+Queen of Diamonds
+2 of Clubs
+
+Hand 520:
+Ace of Spades
+4 of Hearts
+8 of Hearts
+King of Diamonds
+3 of Diamonds
+
+Hand 521:
+7 of Diamonds
+3 of Spades
+5 of Hearts
+5 of Spades
+Queen of Spades
+
+Hand 522:
+King of Clubs
+6 of Spades
+4 of Diamonds
+Ace of Clubs
+9 of Diamonds
+
+Hand 523:
+4 of Spades
+6 of Clubs
+5 of Clubs
+10 of Clubs
+Ace of Diamonds
+
+Hand 524:
+10 of Hearts
+8 of Diamonds
+Jack of Hearts
+10 of Spades
+2 of Diamonds
+
+Hand 525:
+3 of Hearts
+7 of Hearts
+2 of Hearts
+5 of Diamonds
+9 of Spades
+
+Hand 526:
+10 of Diamonds
+6 of Hearts
+7 of Spades
+Ace of Hearts
+Queen of Clubs
+
+Hand 527:
+Jack of Spades
+2 of Spades
+King of Hearts
+4 of Clubs
+Jack of Clubs
+
+Hand 528:
+8 of Clubs
+6 of Spades
+3 of Hearts
+Ace of Hearts
+9 of Diamonds
+
+Hand 529:
+King of Clubs
+Queen of Hearts
+Queen of Spades
+5 of Hearts
+2 of Clubs
+
+Hand 530:
+7 of Clubs
+4 of Clubs
+Jack of Clubs
+4 of Spades
+3 of Clubs
+
+Hand 531:
+10 of Diamonds
+2 of Hearts
+3 of Diamonds
+5 of Spades
+King of Spades
+
+Hand 532:
+Jack of Hearts
+7 of Diamonds
+Ace of Spades
+7 of Spades
+7 of Hearts
+
+Hand 533:
+2 of Diamonds
+King of Hearts
+8 of Spades
+Jack of Diamonds
+8 of Diamonds
+
+Hand 534:
+4 of Diamonds
+Ace of Diamonds
+6 of Clubs
+2 of Spades
+4 of Hearts
+
+Hand 535:
+King of Diamonds
+9 of Clubs
+8 of Hearts
+10 of Spades
+10 of Hearts
+
+Hand 536:
+5 of Clubs
+9 of Spades
+Ace of Clubs
+5 of Diamonds
+9 of Hearts
+
+Hand 537:
+6 of Diamonds
+6 of Hearts
+Queen of Clubs
+4 of Hearts
+8 of Hearts
+
+Hand 538:
+4 of Clubs
+10 of Clubs
+2 of Spades
+6 of Diamonds
+7 of Hearts
+
+Hand 539:
+5 of Spades
+9 of Spades
+4 of Diamonds
+Jack of Spades
+8 of Spades
+
+Hand 540:
+7 of Clubs
+8 of Clubs
+Queen of Diamonds
+5 of Clubs
+Jack of Clubs
+
+Hand 541:
+6 of Clubs
+Jack of Hearts
+9 of Clubs
+4 of Spades
+2 of Diamonds
+
+Hand 542:
+Ace of Diamonds
+King of Clubs
+5 of Diamonds
+5 of Hearts
+Ace of Hearts
+
+Hand 543:
+Ace of Spades
+Queen of Hearts
+2 of Hearts
+10 of Spades
+Queen of Clubs
+
+Hand 544:
+9 of Hearts
+Ace of Clubs
+3 of Clubs
+King of Diamonds
+7 of Spades
+
+Hand 545:
+8 of Diamonds
+3 of Spades
+10 of Hearts
+3 of Diamonds
+Queen of Spades
+
+Hand 546:
+10 of Diamonds
+2 of Clubs
+Jack of Diamonds
+6 of Spades
+King of Hearts
+
+Hand 547:
+3 of Hearts
+2 of Clubs
+9 of Hearts
+3 of Hearts
+8 of Clubs
+
+Hand 548:
+King of Spades
+Jack of Hearts
+King of Clubs
+Queen of Diamonds
+4 of Hearts
+
+Hand 549:
+7 of Clubs
+Jack of Spades
+2 of Diamonds
+King of Diamonds
+3 of Spades
+
+Hand 550:
+8 of Hearts
+10 of Diamonds
+9 of Spades
+6 of Diamonds
+9 of Diamonds
+
+Hand 551:
+10 of Clubs
+Queen of Spades
+7 of Diamonds
+3 of Clubs
+2 of Hearts
+
+Hand 552:
+Jack of Diamonds
+Ace of Clubs
+4 of Clubs
+5 of Clubs
+Ace of Diamonds
+
+Hand 553:
+4 of Spades
+Queen of Hearts
+7 of Hearts
+8 of Spades
+5 of Diamonds
+
+Hand 554:
+6 of Clubs
+Ace of Hearts
+10 of Hearts
+4 of Diamonds
+6 of Spades
+
+Hand 555:
+7 of Spades
+5 of Hearts
+Queen of Clubs
+10 of Spades
+2 of Spades
+
+Hand 556:
+Jack of Clubs
+3 of Diamonds
+6 of Hearts
+8 of Diamonds
+2 of Spades
+
+Hand 557:
+10 of Diamonds
+7 of Diamonds
+8 of Spades
+2 of Diamonds
+2 of Hearts
+
+Hand 558:
+Jack of Diamonds
+4 of Clubs
+Jack of Spades
+8 of Diamonds
+9 of Clubs
+
+Hand 559:
+8 of Clubs
+9 of Diamonds
+8 of Hearts
+2 of Clubs
+3 of Hearts
+
+Hand 560:
+7 of Clubs
+Ace of Hearts
+4 of Spades
+6 of Hearts
+Ace of Clubs
+
+Hand 561:
+10 of Spades
+King of Diamonds
+6 of Diamonds
+4 of Hearts
+King of Clubs
+
+Hand 562:
+9 of Spades
+10 of Clubs
+Queen of Hearts
+9 of Hearts
+6 of Clubs
+
+Hand 563:
+7 of Spades
+King of Spades
+5 of Diamonds
+5 of Clubs
+10 of Hearts
+
+Hand 564:
+6 of Spades
+3 of Clubs
+7 of Hearts
+Queen of Diamonds
+5 of Hearts
+
+Hand 565:
+Queen of Clubs
+Jack of Hearts
+3 of Diamonds
+Ace of Diamonds
+5 of Spades
+
+Hand 566:
+Queen of Spades
+King of Hearts
+8 of Hearts
+7 of Spades
+Jack of Hearts
+
+Hand 567:
+Jack of Diamonds
+3 of Diamonds
+5 of Hearts
+King of Clubs
+4 of Clubs
+
+Hand 568:
+King of Hearts
+8 of Spades
+King of Spades
+6 of Clubs
+9 of Clubs
+
+Hand 569:
+Queen of Diamonds
+8 of Clubs
+7 of Clubs
+Ace of Spades
+2 of Diamonds
+
+Hand 570:
+3 of Spades
+10 of Diamonds
+4 of Spades
+5 of Spades
+2 of Clubs
+
+Hand 571:
+4 of Hearts
+6 of Hearts
+9 of Diamonds
+4 of Diamonds
+5 of Clubs
+
+Hand 572:
+3 of Clubs
+Jack of Spades
+9 of Spades
+6 of Diamonds
+3 of Hearts
+
+Hand 573:
+8 of Diamonds
+5 of Diamonds
+7 of Diamonds
+10 of Spades
+10 of Clubs
+
+Hand 574:
+Ace of Clubs
+2 of Spades
+9 of Hearts
+6 of Spades
+Ace of Hearts
+
+Hand 575:
+Ace of Diamonds
+King of Diamonds
+Queen of Hearts
+7 of Hearts
+2 of Hearts
+
+Hand 576:
+10 of Diamonds
+5 of Hearts
+Jack of Diamonds
+Ace of Clubs
+7 of Diamonds
+
+Hand 577:
+10 of Clubs
+5 of Clubs
+6 of Diamonds
+Jack of Spades
+King of Hearts
+
+Hand 578:
+6 of Clubs
+Jack of Hearts
+Ace of Hearts
+7 of Clubs
+King of Diamonds
+
+Hand 579:
+Queen of Diamonds
+5 of Diamonds
+4 of Diamonds
+5 of Spades
+2 of Clubs
+
+Hand 580:
+2 of Hearts
+6 of Spades
+4 of Clubs
+Ace of Diamonds
+7 of Spades
+
+Hand 581:
+King of Spades
+9 of Clubs
+2 of Diamonds
+Queen of Hearts
+2 of Spades
+
+Hand 582:
+Jack of Clubs
+9 of Diamonds
+4 of Hearts
+3 of Hearts
+3 of Spades
+
+Hand 583:
+6 of Hearts
+Queen of Spades
+8 of Spades
+8 of Diamonds
+10 of Spades
+
+Hand 584:
+9 of Spades
+8 of Clubs
+7 of Hearts
+Queen of Clubs
+King of Clubs
+
+Hand 585:
+3 of Clubs
+10 of Hearts
+Ace of Spades
+Queen of Clubs
+3 of Clubs
+
+Hand 586:
+7 of Spades
+2 of Diamonds
+7 of Diamonds
+King of Hearts
+Jack of Clubs
+
+Hand 587:
+4 of Diamonds
+Jack of Hearts
+8 of Diamonds
+King of Spades
+King of Clubs
+
+Hand 588:
+4 of Clubs
+9 of Diamonds
+5 of Clubs
+8 of Hearts
+6 of Spades
+
+Hand 589:
+Ace of Hearts
+2 of Hearts
+5 of Diamonds
+7 of Hearts
+5 of Spades
+
+Hand 590:
+Ace of Clubs
+2 of Spades
+4 of Hearts
+9 of Spades
+10 of Spades
+
+Hand 591:
+King of Diamonds
+8 of Clubs
+2 of Clubs
+Queen of Spades
+10 of Clubs
+
+Hand 592:
+5 of Hearts
+9 of Hearts
+10 of Hearts
+Ace of Spades
+8 of Spades
+
+Hand 593:
+3 of Spades
+6 of Diamonds
+Queen of Diamonds
+Jack of Spades
+6 of Clubs
+
+Hand 594:
+10 of Diamonds
+Ace of Diamonds
+Queen of Hearts
+3 of Hearts
+4 of Spades
+
+Hand 595:
+3 of Diamonds
+2 of Spades
+Queen of Hearts
+6 of Clubs
+3 of Hearts
+
+Hand 596:
+Ace of Spades
+3 of Spades
+King of Hearts
+2 of Diamonds
+9 of Clubs
+
+Hand 597:
+8 of Hearts
+9 of Diamonds
+4 of Clubs
+7 of Diamonds
+10 of Hearts
+
+Hand 598:
+5 of Hearts
+3 of Diamonds
+9 of Hearts
+7 of Spades
+4 of Spades
+
+Hand 599:
+King of Diamonds
+8 of Diamonds
+Queen of Diamonds
+Jack of Spades
+5 of Diamonds
+
+Hand 600:
+10 of Clubs
+5 of Spades
+Ace of Hearts
+Ace of Diamonds
+8 of Clubs
+
+Hand 601:
+9 of Spades
+King of Clubs
+6 of Hearts
+10 of Spades
+Queen of Clubs
+
+Hand 602:
+6 of Diamonds
+Jack of Clubs
+5 of Clubs
+10 of Diamonds
+7 of Hearts
+
+Hand 603:
+Jack of Diamonds
+7 of Clubs
+2 of Clubs
+King of Spades
+8 of Spades
+
+Hand 604:
+3 of Clubs
+Ace of Clubs
+4 of Diamonds
+2 of Hearts
+10 of Clubs
+
+Hand 605:
+7 of Diamonds
+Queen of Clubs
+Ace of Hearts
+6 of Diamonds
+10 of Spades
+
+Hand 606:
+4 of Diamonds
+3 of Diamonds
+8 of Diamonds
+Queen of Hearts
+6 of Spades
+
+Hand 607:
+5 of Diamonds
+King of Spades
+4 of Spades
+2 of Clubs
+4 of Clubs
+
+Hand 608:
+King of Diamonds
+5 of Spades
+Ace of Diamonds
+10 of Diamonds
+3 of Hearts
+
+Hand 609:
+Queen of Spades
+6 of Clubs
+8 of Spades
+9 of Clubs
+2 of Spades
+
+Hand 610:
+King of Hearts
+7 of Hearts
+8 of Clubs
+8 of Hearts
+6 of Hearts
+
+Hand 611:
+3 of Spades
+Jack of Hearts
+Ace of Clubs
+10 of Hearts
+3 of Clubs
+
+Hand 612:
+9 of Hearts
+4 of Hearts
+Jack of Diamonds
+5 of Clubs
+7 of Clubs
+
+Hand 613:
+Jack of Clubs
+Jack of Spades
+9 of Diamonds
+7 of Spades
+King of Clubs
+
+Hand 614:
+Queen of Diamonds
+Ace of Spades
+7 of Diamonds
+Queen of Diamonds
+7 of Hearts
+
+Hand 615:
+8 of Clubs
+Queen of Clubs
+7 of Clubs
+2 of Spades
+4 of Diamonds
+
+Hand 616:
+King of Clubs
+4 of Clubs
+10 of Hearts
+3 of Hearts
+2 of Diamonds
+
+Hand 617:
+4 of Spades
+Ace of Clubs
+Jack of Spades
+2 of Clubs
+5 of Diamonds
+
+Hand 618:
+Queen of Hearts
+5 of Clubs
+4 of Hearts
+7 of Spades
+6 of Spades
+
+Hand 619:
+9 of Diamonds
+9 of Spades
+Queen of Spades
+9 of Clubs
+3 of Clubs
+
+Hand 620:
+8 of Diamonds
+Jack of Clubs
+10 of Spades
+Jack of Hearts
+3 of Spades
+
+Hand 621:
+8 of Hearts
+Ace of Diamonds
+6 of Clubs
+6 of Hearts
+2 of Hearts
+
+Hand 622:
+5 of Spades
+6 of Diamonds
+8 of Spades
+Ace of Hearts
+10 of Diamonds
+
+Hand 623:
+Ace of Spades
+3 of Diamonds
+King of Diamonds
+King of Spades
+10 of Clubs
+
+Hand 624:
+Queen of Hearts
+4 of Hearts
+Queen of Spades
+Jack of Spades
+Jack of Hearts
+
+Hand 625:
+9 of Diamonds
+2 of Clubs
+3 of Clubs
+5 of Diamonds
+2 of Spades
+
+Hand 626:
+10 of Hearts
+5 of Spades
+7 of Diamonds
+Ace of Diamonds
+3 of Hearts
+
+Hand 627:
+Ace of Hearts
+2 of Diamonds
+4 of Diamonds
+King of Clubs
+Queen of Clubs
+
+Hand 628:
+5 of Hearts
+8 of Diamonds
+9 of Clubs
+8 of Spades
+3 of Spades
+
+Hand 629:
+9 of Hearts
+6 of Spades
+7 of Hearts
+Ace of Spades
+King of Hearts
+
+Hand 630:
+6 of Diamonds
+5 of Clubs
+4 of Spades
+8 of Clubs
+10 of Spades
+
+Hand 631:
+9 of Spades
+2 of Hearts
+King of Spades
+10 of Clubs
+King of Diamonds
+
+Hand 632:
+Jack of Diamonds
+Jack of Clubs
+7 of Spades
+6 of Clubs
+7 of Clubs
+
+Hand 633:
+4 of Clubs
+3 of Diamonds
+8 of Hearts
+9 of Spades
+5 of Diamonds
+
+Hand 634:
+Jack of Hearts
+2 of Spades
+2 of Clubs
+9 of Hearts
+10 of Diamonds
+
+Hand 635:
+4 of Diamonds
+King of Spades
+King of Diamonds
+9 of Diamonds
+Ace of Clubs
+
+Hand 636:
+3 of Diamonds
+8 of Spades
+7 of Clubs
+8 of Hearts
+6 of Hearts
+
+Hand 637:
+Queen of Diamonds
+Jack of Spades
+8 of Diamonds
+6 of Diamonds
+King of Clubs
+
+Hand 638:
+3 of Hearts
+4 of Hearts
+Queen of Clubs
+9 of Clubs
+7 of Diamonds
+
+Hand 639:
+7 of Hearts
+8 of Clubs
+3 of Spades
+5 of Clubs
+4 of Clubs
+
+Hand 640:
+5 of Hearts
+Queen of Hearts
+10 of Spades
+2 of Hearts
+Jack of Diamonds
+
+Hand 641:
+Jack of Clubs
+2 of Diamonds
+10 of Hearts
+Ace of Diamonds
+10 of Clubs
+
+Hand 642:
+3 of Clubs
+6 of Clubs
+Ace of Hearts
+King of Hearts
+Ace of Spades
+
+Hand 643:
+5 of Spades
+Ace of Spades
+7 of Spades
+Jack of Diamonds
+4 of Spades
+
+Hand 644:
+9 of Clubs
+5 of Hearts
+2 of Clubs
+7 of Diamonds
+8 of Spades
+
+Hand 645:
+7 of Clubs
+2 of Diamonds
+10 of Clubs
+Queen of Spades
+7 of Hearts
+
+Hand 646:
+3 of Hearts
+4 of Hearts
+9 of Diamonds
+10 of Hearts
+Ace of Clubs
+
+Hand 647:
+Jack of Spades
+4 of Clubs
+2 of Hearts
+3 of Clubs
+King of Hearts
+
+Hand 648:
+Queen of Clubs
+9 of Hearts
+3 of Spades
+6 of Diamonds
+3 of Diamonds
+
+Hand 649:
+Ace of Hearts
+5 of Clubs
+Ace of Diamonds
+4 of Diamonds
+5 of Diamonds
+
+Hand 650:
+8 of Hearts
+8 of Diamonds
+2 of Spades
+10 of Spades
+6 of Spades
+
+Hand 651:
+King of Spades
+Queen of Diamonds
+6 of Clubs
+King of Clubs
+Queen of Hearts
+
+Hand 652:
+King of Diamonds
+9 of Spades
+Jack of Hearts
+6 of Hearts
+3 of Spades
+
+Hand 653:
+Queen of Clubs
+2 of Clubs
+9 of Spades
+2 of Hearts
+8 of Spades
+
+Hand 654:
+6 of Hearts
+King of Clubs
+7 of Spades
+King of Diamonds
+8 of Hearts
+
+Hand 655:
+9 of Clubs
+6 of Clubs
+5 of Diamonds
+8 of Diamonds
+Ace of Clubs
+
+Hand 656:
+10 of Spades
+Jack of Clubs
+Jack of Diamonds
+8 of Clubs
+4 of Hearts
+
+Hand 657:
+King of Hearts
+5 of Spades
+2 of Diamonds
+3 of Hearts
+Ace of Hearts
+
+Hand 658:
+2 of Spades
+3 of Diamonds
+5 of Clubs
+Queen of Hearts
+5 of Hearts
+
+Hand 659:
+Ace of Diamonds
+4 of Spades
+6 of Spades
+10 of Clubs
+Jack of Spades
+
+Hand 660:
+Queen of Spades
+10 of Hearts
+6 of Diamonds
+7 of Diamonds
+Queen of Diamonds
+
+Hand 661:
+7 of Clubs
+9 of Diamonds
+9 of Hearts
+3 of Clubs
+King of Spades
+
+Hand 662:
+4 of Diamonds
+4 of Clubs
+Jack of Diamonds
+Jack of Spades
+4 of Hearts
+
+Hand 663:
+8 of Hearts
+5 of Spades
+8 of Spades
+10 of Clubs
+5 of Clubs
+
+Hand 664:
+3 of Clubs
+3 of Diamonds
+8 of Diamonds
+6 of Spades
+3 of Hearts
+
+Hand 665:
+Jack of Hearts
+King of Clubs
+Ace of Clubs
+6 of Diamonds
+Queen of Clubs
+
+Hand 666:
+Ace of Diamonds
+2 of Clubs
+7 of Clubs
+9 of Diamonds
+King of Diamonds
+
+Hand 667:
+5 of Hearts
+King of Spades
+10 of Diamonds
+9 of Spades
+4 of Spades
+
+Hand 668:
+10 of Hearts
+Queen of Diamonds
+9 of Clubs
+8 of Clubs
+9 of Hearts
+
+Hand 669:
+7 of Hearts
+King of Hearts
+7 of Spades
+Queen of Spades
+2 of Diamonds
+
+Hand 670:
+Ace of Hearts
+2 of Spades
+6 of Hearts
+3 of Spades
+4 of Clubs
+
+Hand 671:
+Queen of Hearts
+5 of Diamonds
+10 of Spades
+6 of Clubs
+Jack of Clubs
+
+Hand 672:
+7 of Clubs
+5 of Spades
+Jack of Spades
+King of Diamonds
+Jack of Diamonds
+
+Hand 673:
+Ace of Diamonds
+4 of Clubs
+10 of Spades
+9 of Spades
+King of Spades
+
+Hand 674:
+9 of Clubs
+5 of Clubs
+Queen of Spades
+6 of Hearts
+3 of Hearts
+
+Hand 675:
+6 of Clubs
+Queen of Diamonds
+8 of Clubs
+Jack of Hearts
+Queen of Clubs
+
+Hand 676:
+6 of Spades
+5 of Hearts
+2 of Hearts
+4 of Diamonds
+7 of Hearts
+
+Hand 677:
+Ace of Spades
+Queen of Hearts
+7 of Spades
+3 of Diamonds
+8 of Hearts
+
+Hand 678:
+5 of Diamonds
+7 of Diamonds
+Jack of Clubs
+Ace of Clubs
+6 of Diamonds
+
+Hand 679:
+2 of Clubs
+10 of Clubs
+3 of Clubs
+Ace of Hearts
+8 of Diamonds
+
+Hand 680:
+10 of Hearts
+4 of Spades
+8 of Spades
+King of Hearts
+9 of Diamonds
+
+Hand 681:
+2 of Spades
+3 of Spades
+10 of Diamonds
+Queen of Spades
+8 of Spades
+
+Hand 682:
+Jack of Spades
+Queen of Diamonds
+5 of Clubs
+3 of Hearts
+6 of Diamonds
+
+Hand 683:
+8 of Hearts
+7 of Hearts
+10 of Spades
+7 of Clubs
+6 of Clubs
+
+Hand 684:
+2 of Hearts
+2 of Spades
+2 of Diamonds
+4 of Diamonds
+Ace of Hearts
+
+Hand 685:
+4 of Hearts
+King of Diamonds
+6 of Hearts
+10 of Hearts
+6 of Spades
+
+Hand 686:
+5 of Diamonds
+Queen of Hearts
+Jack of Clubs
+3 of Diamonds
+Jack of Diamonds
+
+Hand 687:
+Queen of Clubs
+King of Hearts
+3 of Clubs
+8 of Clubs
+Ace of Diamonds
+
+Hand 688:
+King of Spades
+Jack of Hearts
+9 of Hearts
+Ace of Clubs
+7 of Diamonds
+
+Hand 689:
+9 of Diamonds
+King of Clubs
+4 of Spades
+5 of Spades
+7 of Spades
+
+Hand 690:
+10 of Diamonds
+5 of Hearts
+Ace of Spades
+3 of Spades
+4 of Clubs
+
+Hand 691:
+10 of Clubs
+King of Hearts
+4 of Diamonds
+2 of Hearts
+2 of Diamonds
+
+Hand 692:
+6 of Diamonds
+Ace of Diamonds
+Jack of Spades
+Ace of Clubs
+2 of Spades
+
+Hand 693:
+9 of Clubs
+5 of Clubs
+8 of Spades
+Jack of Diamonds
+7 of Diamonds
+
+Hand 694:
+King of Clubs
+4 of Hearts
+10 of Diamonds
+6 of Hearts
+8 of Diamonds
+
+Hand 695:
+Jack of Hearts
+3 of Diamonds
+Queen of Clubs
+5 of Hearts
+4 of Clubs
+
+Hand 696:
+7 of Hearts
+5 of Diamonds
+9 of Spades
+7 of Spades
+Jack of Clubs
+
+Hand 697:
+9 of Diamonds
+4 of Spades
+Queen of Diamonds
+King of Diamonds
+7 of Clubs
+
+Hand 698:
+Queen of Hearts
+Ace of Hearts
+3 of Clubs
+10 of Clubs
+King of Spades
+
+Hand 699:
+10 of Spades
+6 of Spades
+9 of Hearts
+2 of Clubs
+6 of Clubs
+
+Hand 700:
+5 of Spades
+8 of Hearts
+3 of Hearts
+Ace of Spades
+Ace of Spades
+
+Hand 701:
+10 of Spades
+King of Clubs
+Jack of Hearts
+7 of Clubs
+King of Hearts
+
+Hand 702:
+5 of Spades
+9 of Hearts
+7 of Hearts
+9 of Diamonds
+Ace of Hearts
+
+Hand 703:
+4 of Spades
+Jack of Clubs
+3 of Spades
+Queen of Hearts
+Jack of Diamonds
+
+Hand 704:
+8 of Diamonds
+8 of Clubs
+2 of Diamonds
+6 of Clubs
+8 of Hearts
+
+Hand 705:
+8 of Spades
+10 of Clubs
+2 of Hearts
+6 of Diamonds
+4 of Clubs
+
+Hand 706:
+10 of Hearts
+5 of Diamonds
+Queen of Clubs
+6 of Hearts
+7 of Spades
+
+Hand 707:
+5 of Hearts
+Ace of Diamonds
+4 of Diamonds
+9 of Clubs
+7 of Diamonds
+
+Hand 708:
+3 of Hearts
+3 of Diamonds
+Ace of Clubs
+5 of Clubs
+Queen of Spades
+
+Hand 709:
+6 of Spades
+Queen of Diamonds
+10 of Diamonds
+2 of Spades
+2 of Clubs
+
+Hand 710:
+King of Diamonds
+9 of Spades
+Queen of Clubs
+5 of Diamonds
+Queen of Spades
+
+Hand 711:
+2 of Spades
+5 of Spades
+3 of Clubs
+Jack of Diamonds
+Queen of Diamonds
+
+Hand 712:
+9 of Diamonds
+9 of Spades
+Jack of Spades
+3 of Diamonds
+3 of Hearts
+
+Hand 713:
+10 of Spades
+6 of Diamonds
+8 of Hearts
+Jack of Clubs
+Ace of Diamonds
+
+Hand 714:
+8 of Spades
+4 of Spades
+6 of Clubs
+Queen of Hearts
+6 of Hearts
+
+Hand 715:
+King of Hearts
+9 of Hearts
+8 of Clubs
+4 of Diamonds
+7 of Diamonds
+
+Hand 716:
+10 of Clubs
+King of Spades
+4 of Hearts
+7 of Spades
+4 of Clubs
+
+Hand 717:
+Ace of Spades
+2 of Diamonds
+2 of Hearts
+6 of Spades
+5 of Clubs
+
+Hand 718:
+King of Clubs
+King of Diamonds
+3 of Spades
+Jack of Hearts
+7 of Clubs
+
+Hand 719:
+10 of Hearts
+2 of Clubs
+5 of Hearts
+7 of Hearts
+Ace of Clubs
+
+Hand 720:
+2 of Hearts
+4 of Spades
+Jack of Hearts
+3 of Hearts
+9 of Spades
+
+Hand 721:
+4 of Hearts
+10 of Clubs
+7 of Hearts
+7 of Clubs
+5 of Spades
+
+Hand 722:
+3 of Spades
+8 of Hearts
+Queen of Hearts
+10 of Hearts
+8 of Diamonds
+
+Hand 723:
+5 of Clubs
+10 of Diamonds
+Jack of Spades
+6 of Spades
+Ace of Hearts
+
+Hand 724:
+3 of Diamonds
+Ace of Clubs
+Jack of Clubs
+Queen of Diamonds
+9 of Clubs
+
+Hand 725:
+10 of Spades
+Ace of Spades
+King of Hearts
+Jack of Diamonds
+5 of Hearts
+
+Hand 726:
+2 of Diamonds
+6 of Hearts
+2 of Clubs
+6 of Clubs
+9 of Diamonds
+
+Hand 727:
+8 of Clubs
+Queen of Clubs
+2 of Spades
+King of Spades
+7 of Spades
+
+Hand 728:
+Ace of Diamonds
+7 of Diamonds
+4 of Diamonds
+9 of Hearts
+4 of Clubs
+
+Hand 729:
+King of Clubs
+6 of Diamonds
+5 of Diamonds
+4 of Hearts
+4 of Spades
+
+Hand 730:
+King of Hearts
+10 of Diamonds
+10 of Spades
+King of Clubs
+Queen of Diamonds
+
+Hand 731:
+9 of Hearts
+3 of Clubs
+Jack of Spades
+Ace of Clubs
+7 of Spades
+
+Hand 732:
+5 of Clubs
+9 of Clubs
+4 of Clubs
+3 of Spades
+6 of Spades
+
+Hand 733:
+Queen of Hearts
+7 of Diamonds
+7 of Hearts
+Jack of Diamonds
+8 of Clubs
+
+Hand 734:
+Jack of Clubs
+10 of Hearts
+King of Diamonds
+10 of Clubs
+9 of Spades
+
+Hand 735:
+9 of Diamonds
+Jack of Hearts
+6 of Hearts
+Queen of Clubs
+6 of Clubs
+
+Hand 736:
+King of Spades
+8 of Spades
+2 of Clubs
+3 of Diamonds
+2 of Spades
+
+Hand 737:
+Queen of Spades
+Ace of Hearts
+Ace of Spades
+7 of Clubs
+Ace of Diamonds
+
+Hand 738:
+8 of Hearts
+5 of Diamonds
+2 of Hearts
+6 of Diamonds
+4 of Diamonds
+
+Hand 739:
+5 of Hearts
+Ace of Diamonds
+5 of Diamonds
+7 of Clubs
+4 of Clubs
+
+Hand 740:
+2 of Hearts
+4 of Hearts
+Jack of Diamonds
+4 of Diamonds
+Jack of Clubs
+
+Hand 741:
+King of Hearts
+8 of Diamonds
+Queen of Hearts
+Ace of Spades
+6 of Hearts
+
+Hand 742:
+Jack of Spades
+3 of Spades
+9 of Spades
+2 of Spades
+3 of Hearts
+
+Hand 743:
+2 of Diamonds
+8 of Hearts
+10 of Spades
+3 of Clubs
+6 of Clubs
+
+Hand 744:
+10 of Hearts
+8 of Clubs
+7 of Diamonds
+5 of Hearts
+5 of Clubs
+
+Hand 745:
+King of Diamonds
+7 of Spades
+Ace of Clubs
+9 of Diamonds
+3 of Diamonds
+
+Hand 746:
+10 of Clubs
+2 of Clubs
+King of Spades
+5 of Spades
+10 of Diamonds
+
+Hand 747:
+4 of Spades
+Queen of Spades
+King of Clubs
+Queen of Clubs
+Queen of Diamonds
+
+Hand 748:
+9 of Clubs
+8 of Spades
+6 of Spades
+Ace of Hearts
+3 of Hearts
+
+Hand 749:
+King of Diamonds
+6 of Spades
+8 of Clubs
+6 of Hearts
+4 of Hearts
+
+Hand 750:
+7 of Spades
+3 of Spades
+7 of Diamonds
+Jack of Diamonds
+10 of Diamonds
+
+Hand 751:
+2 of Spades
+5 of Spades
+Ace of Diamonds
+7 of Hearts
+3 of Clubs
+
+Hand 752:
+Jack of Hearts
+10 of Clubs
+Queen of Hearts
+4 of Spades
+7 of Clubs
+
+Hand 753:
+5 of Clubs
+9 of Diamonds
+Ace of Hearts
+5 of Hearts
+Queen of Spades
+
+Hand 754:
+2 of Hearts
+3 of Diamonds
+4 of Clubs
+Jack of Clubs
+8 of Hearts
+
+Hand 755:
+King of Clubs
+King of Spades
+Ace of Spades
+6 of Diamonds
+King of Hearts
+
+Hand 756:
+9 of Hearts
+Jack of Spades
+6 of Clubs
+2 of Clubs
+Queen of Clubs
+
+Hand 757:
+Queen of Diamonds
+4 of Diamonds
+5 of Diamonds
+8 of Spades
+9 of Spades
+
+Hand 758:
+2 of Diamonds
+10 of Spades
+4 of Hearts
+Ace of Spades
+3 of Clubs
+
+Hand 759:
+3 of Diamonds
+Queen of Hearts
+5 of Hearts
+King of Spades
+9 of Hearts
+
+Hand 760:
+Queen of Spades
+4 of Spades
+7 of Spades
+8 of Spades
+4 of Clubs
+
+Hand 761:
+6 of Hearts
+Queen of Diamonds
+King of Hearts
+Ace of Clubs
+7 of Clubs
+
+Hand 762:
+9 of Clubs
+Queen of Clubs
+3 of Spades
+10 of Diamonds
+2 of Hearts
+
+Hand 763:
+Ace of Hearts
+6 of Spades
+Jack of Diamonds
+8 of Hearts
+10 of Clubs
+
+Hand 764:
+2 of Diamonds
+8 of Diamonds
+8 of Clubs
+3 of Hearts
+King of Clubs
+
+Hand 765:
+5 of Diamonds
+6 of Diamonds
+9 of Spades
+King of Diamonds
+6 of Clubs
+
+Hand 766:
+Ace of Diamonds
+4 of Diamonds
+10 of Hearts
+2 of Clubs
+Jack of Spades
+
+Hand 767:
+2 of Spades
+10 of Spades
+7 of Diamonds
+5 of Clubs
+Jack of Clubs
+
+Hand 768:
+8 of Hearts
+King of Diamonds
+7 of Spades
+3 of Clubs
+6 of Spades
+
+Hand 769:
+10 of Diamonds
+6 of Hearts
+10 of Clubs
+7 of Clubs
+3 of Spades
+
+Hand 770:
+5 of Clubs
+2 of Hearts
+Queen of Spades
+5 of Diamonds
+Ace of Spades
+
+Hand 771:
+4 of Diamonds
+3 of Diamonds
+2 of Spades
+Ace of Hearts
+8 of Diamonds
+
+Hand 772:
+10 of Spades
+8 of Clubs
+5 of Hearts
+Ace of Clubs
+Ace of Diamonds
+
+Hand 773:
+Queen of Diamonds
+10 of Hearts
+Jack of Diamonds
+4 of Spades
+7 of Diamonds
+
+Hand 774:
+9 of Clubs
+Jack of Clubs
+King of Spades
+Queen of Hearts
+4 of Hearts
+
+Hand 775:
+Jack of Hearts
+9 of Hearts
+9 of Diamonds
+King of Hearts
+5 of Spades
+
+Hand 776:
+Queen of Clubs
+Jack of Spades
+8 of Spades
+3 of Hearts
+4 of Clubs
+
+Hand 777:
+6 of Clubs
+6 of Diamonds
+2 of Diamonds
+Queen of Spades
+Jack of Clubs
+
+Hand 778:
+2 of Hearts
+Ace of Clubs
+2 of Diamonds
+9 of Hearts
+King of Diamonds
+
+Hand 779:
+4 of Hearts
+Jack of Diamonds
+4 of Clubs
+2 of Clubs
+4 of Diamonds
+
+Hand 780:
+Queen of Clubs
+Jack of Hearts
+King of Spades
+10 of Hearts
+7 of Hearts
+
+Hand 781:
+King of Clubs
+10 of Clubs
+8 of Spades
+5 of Hearts
+3 of Clubs
+
+Hand 782:
+Queen of Hearts
+6 of Clubs
+6 of Hearts
+10 of Diamonds
+9 of Clubs
+
+Hand 783:
+5 of Diamonds
+2 of Spades
+5 of Spades
+Queen of Diamonds
+4 of Spades
+
+Hand 784:
+9 of Diamonds
+7 of Diamonds
+Jack of Spades
+Ace of Diamonds
+Ace of Spades
+
+Hand 785:
+7 of Spades
+6 of Diamonds
+6 of Spades
+8 of Clubs
+8 of Hearts
+
+Hand 786:
+9 of Spades
+7 of Clubs
+3 of Hearts
+King of Hearts
+3 of Diamonds
+
+Hand 787:
+5 of Clubs
+Ace of Hearts
+6 of Hearts
+3 of Hearts
+2 of Diamonds
+
+Hand 788:
+Jack of Diamonds
+8 of Diamonds
+King of Clubs
+Ace of Clubs
+Queen of Hearts
+
+Hand 789:
+King of Diamonds
+3 of Diamonds
+7 of Spades
+4 of Spades
+Queen of Clubs
+
+Hand 790:
+9 of Hearts
+9 of Spades
+2 of Spades
+5 of Diamonds
+10 of Spades
+
+Hand 791:
+Jack of Clubs
+3 of Spades
+2 of Hearts
+Ace of Diamonds
+9 of Clubs
+
+Hand 792:
+6 of Diamonds
+5 of Clubs
+8 of Spades
+King of Spades
+6 of Spades
+
+Hand 793:
+Queen of Spades
+7 of Hearts
+Ace of Spades
+7 of Clubs
+7 of Diamonds
+
+Hand 794:
+5 of Spades
+4 of Diamonds
+Jack of Hearts
+8 of Clubs
+6 of Clubs
+
+Hand 795:
+8 of Hearts
+Queen of Diamonds
+4 of Clubs
+2 of Clubs
+9 of Diamonds
+
+Hand 796:
+10 of Clubs
+3 of Clubs
+4 of Hearts
+10 of Diamonds
+3 of Clubs
+
+Hand 797:
+9 of Diamonds
+Jack of Spades
+2 of Diamonds
+5 of Diamonds
+9 of Spades
+
+Hand 798:
+7 of Diamonds
+3 of Diamonds
+5 of Spades
+2 of Hearts
+8 of Diamonds
+
+Hand 799:
+6 of Hearts
+King of Hearts
+King of Diamonds
+8 of Spades
+6 of Diamonds
+
+Hand 800:
+10 of Clubs
+Jack of Diamonds
+Ace of Spades
+2 of Spades
+Ace of Diamonds
+
+Hand 801:
+5 of Hearts
+9 of Clubs
+King of Spades
+King of Clubs
+4 of Clubs
+
+Hand 802:
+2 of Clubs
+8 of Clubs
+7 of Hearts
+Queen of Clubs
+4 of Diamonds
+
+Hand 803:
+8 of Hearts
+Queen of Spades
+6 of Spades
+Ace of Clubs
+3 of Hearts
+
+Hand 804:
+10 of Spades
+Jack of Hearts
+Jack of Clubs
+Queen of Diamonds
+5 of Clubs
+
+Hand 805:
+9 of Hearts
+7 of Clubs
+Ace of Hearts
+10 of Diamonds
+10 of Hearts
+
+Hand 806:
+Queen of Hearts
+4 of Hearts
+7 of Hearts
+4 of Hearts
+4 of Clubs
+
+Hand 807:
+6 of Spades
+Ace of Hearts
+5 of Clubs
+2 of Hearts
+Jack of Diamonds
+
+Hand 808:
+7 of Spades
+Queen of Diamonds
+2 of Clubs
+Queen of Spades
+8 of Diamonds
+
+Hand 809:
+4 of Spades
+8 of Hearts
+8 of Clubs
+7 of Clubs
+Jack of Spades
+
+Hand 810:
+9 of Spades
+Jack of Hearts
+6 of Diamonds
+8 of Spades
+5 of Diamonds
+
+Hand 811:
+5 of Hearts
+King of Hearts
+King of Diamonds
+6 of Hearts
+4 of Diamonds
+
+Hand 812:
+6 of Clubs
+3 of Hearts
+9 of Clubs
+9 of Diamonds
+10 of Hearts
+
+Hand 813:
+Queen of Clubs
+3 of Clubs
+Ace of Diamonds
+Queen of Hearts
+2 of Spades
+
+Hand 814:
+5 of Spades
+10 of Diamonds
+Ace of Clubs
+King of Clubs
+10 of Clubs
+
+Hand 815:
+2 of Diamonds
+10 of Spades
+King of Spades
+3 of Spades
+Ace of Spades
+
+Hand 816:
+Jack of Spades
+Jack of Clubs
+Queen of Diamonds
+2 of Diamonds
+King of Diamonds
+
+Hand 817:
+2 of Hearts
+Ace of Clubs
+6 of Spades
+6 of Hearts
+7 of Diamonds
+
+Hand 818:
+6 of Diamonds
+King of Hearts
+8 of Hearts
+5 of Diamonds
+3 of Diamonds
+
+Hand 819:
+9 of Clubs
+8 of Spades
+10 of Diamonds
+5 of Hearts
+King of Clubs
+
+Hand 820:
+3 of Clubs
+8 of Diamonds
+10 of Spades
+King of Spades
+Ace of Diamonds
+
+Hand 821:
+8 of Clubs
+2 of Clubs
+9 of Diamonds
+Queen of Spades
+10 of Clubs
+
+Hand 822:
+3 of Hearts
+10 of Hearts
+Queen of Clubs
+9 of Hearts
+7 of Spades
+
+Hand 823:
+4 of Spades
+4 of Diamonds
+4 of Clubs
+9 of Spades
+7 of Hearts
+
+Hand 824:
+7 of Clubs
+3 of Spades
+Ace of Spades
+Jack of Diamonds
+5 of Clubs
+
+Hand 825:
+5 of Spades
+2 of Spades
+Ace of Hearts
+10 of Diamonds
+Queen of Diamonds
+
+Hand 826:
+8 of Spades
+2 of Hearts
+10 of Hearts
+Jack of Clubs
+5 of Clubs
+
+Hand 827:
+9 of Hearts
+2 of Diamonds
+7 of Diamonds
+6 of Spades
+6 of Hearts
+
+Hand 828:
+King of Hearts
+Jack of Hearts
+10 of Spades
+Ace of Diamonds
+10 of Clubs
+
+Hand 829:
+8 of Hearts
+8 of Clubs
+8 of Diamonds
+King of Clubs
+9 of Clubs
+
+Hand 830:
+4 of Clubs
+7 of Hearts
+Queen of Spades
+9 of Diamonds
+Jack of Spades
+
+Hand 831:
+5 of Diamonds
+4 of Hearts
+3 of Spades
+2 of Spades
+3 of Clubs
+
+Hand 832:
+7 of Spades
+6 of Clubs
+Queen of Hearts
+King of Spades
+7 of Clubs
+
+Hand 833:
+Ace of Spades
+Jack of Diamonds
+6 of Diamonds
+Ace of Hearts
+4 of Diamonds
+
+Hand 834:
+3 of Hearts
+5 of Hearts
+4 of Spades
+2 of Clubs
+Ace of Clubs
+
+Hand 835:
+3 of Diamonds
+10 of Spades
+7 of Spades
+10 of Hearts
+5 of Hearts
+
+Hand 836:
+6 of Diamonds
+4 of Clubs
+3 of Spades
+9 of Spades
+2 of Diamonds
+
+Hand 837:
+Queen of Diamonds
+Jack of Spades
+Jack of Clubs
+6 of Spades
+5 of Spades
+
+Hand 838:
+King of Diamonds
+4 of Spades
+Queen of Spades
+8 of Clubs
+4 of Diamonds
+
+Hand 839:
+8 of Diamonds
+7 of Clubs
+King of Spades
+8 of Hearts
+10 of Clubs
+
+Hand 840:
+Jack of Hearts
+Queen of Hearts
+2 of Spades
+King of Hearts
+9 of Clubs
+
+Hand 841:
+8 of Spades
+Ace of Clubs
+9 of Diamonds
+Ace of Spades
+King of Clubs
+
+Hand 842:
+Ace of Hearts
+Ace of Diamonds
+5 of Diamonds
+3 of Hearts
+Jack of Diamonds
+
+Hand 843:
+9 of Hearts
+2 of Hearts
+Queen of Clubs
+6 of Clubs
+10 of Diamonds
+
+Hand 844:
+3 of Clubs
+6 of Hearts
+5 of Clubs
+7 of Hearts
+6 of Diamonds
+
+Hand 845:
+Queen of Diamonds
+9 of Clubs
+4 of Hearts
+4 of Spades
+Queen of Spades
+
+Hand 846:
+King of Clubs
+10 of Hearts
+7 of Hearts
+9 of Hearts
+10 of Clubs
+
+Hand 847:
+3 of Diamonds
+Jack of Diamonds
+6 of Hearts
+King of Diamonds
+8 of Diamonds
+
+Hand 848:
+10 of Spades
+5 of Spades
+Queen of Hearts
+5 of Hearts
+7 of Clubs
+
+Hand 849:
+6 of Clubs
+2 of Spades
+Jack of Clubs
+4 of Clubs
+3 of Clubs
+
+Hand 850:
+5 of Clubs
+Ace of Diamonds
+Jack of Spades
+9 of Diamonds
+6 of Spades
+
+Hand 851:
+King of Spades
+King of Hearts
+9 of Spades
+Ace of Spades
+3 of Hearts
+
+Hand 852:
+7 of Diamonds
+4 of Diamonds
+8 of Spades
+10 of Diamonds
+8 of Clubs
+
+Hand 853:
+5 of Diamonds
+3 of Spades
+Ace of Hearts
+2 of Hearts
+Ace of Clubs
+
+Hand 854:
+2 of Clubs
+Jack of Hearts
+6 of Spades
+King of Spades
+9 of Clubs
+
+Hand 855:
+3 of Spades
+6 of Hearts
+4 of Hearts
+10 of Diamonds
+10 of Hearts
+
+Hand 856:
+8 of Clubs
+King of Clubs
+Jack of Clubs
+5 of Diamonds
+Ace of Diamonds
+
+Hand 857:
+5 of Hearts
+8 of Hearts
+4 of Diamonds
+9 of Spades
+Queen of Hearts
+
+Hand 858:
+10 of Spades
+3 of Diamonds
+10 of Clubs
+9 of Hearts
+8 of Diamonds
+
+Hand 859:
+Ace of Hearts
+Queen of Spades
+5 of Spades
+Jack of Diamonds
+7 of Diamonds
+
+Hand 860:
+Jack of Hearts
+Queen of Clubs
+2 of Hearts
+Ace of Clubs
+Jack of Spades
+
+Hand 861:
+3 of Clubs
+4 of Spades
+6 of Clubs
+3 of Hearts
+7 of Clubs
+
+Hand 862:
+9 of Diamonds
+7 of Hearts
+4 of Clubs
+6 of Diamonds
+2 of Diamonds
+
+Hand 863:
+King of Hearts
+Queen of Diamonds
+8 of Spades
+Ace of Spades
+7 of Spades
+
+Hand 864:
+Ace of Clubs
+3 of Hearts
+Ace of Spades
+Queen of Clubs
+9 of Spades
+
+Hand 865:
+9 of Diamonds
+7 of Clubs
+2 of Diamonds
+2 of Clubs
+King of Spades
+
+Hand 866:
+Ace of Hearts
+2 of Hearts
+4 of Spades
+Queen of Diamonds
+5 of Clubs
+
+Hand 867:
+6 of Hearts
+4 of Clubs
+King of Diamonds
+7 of Diamonds
+10 of Diamonds
+
+Hand 868:
+6 of Diamonds
+Jack of Hearts
+Ace of Diamonds
+Jack of Diamonds
+5 of Diamonds
+
+Hand 869:
+5 of Spades
+8 of Diamonds
+Jack of Spades
+2 of Spades
+7 of Hearts
+
+Hand 870:
+9 of Clubs
+5 of Hearts
+Jack of Clubs
+King of Clubs
+Queen of Spades
+
+Hand 871:
+7 of Spades
+3 of Spades
+4 of Hearts
+4 of Diamonds
+6 of Spades
+
+Hand 872:
+9 of Hearts
+6 of Clubs
+3 of Diamonds
+King of Hearts
+8 of Hearts
+
+Hand 873:
+8 of Spades
+8 of Clubs
+Queen of Hearts
+King of Hearts
+4 of Clubs
+
+Hand 874:
+9 of Clubs
+3 of Spades
+Ace of Hearts
+6 of Hearts
+5 of Diamonds
+
+Hand 875:
+5 of Spades
+2 of Spades
+10 of Hearts
+King of Diamonds
+6 of Diamonds
+
+Hand 876:
+7 of Diamonds
+Ace of Diamonds
+Jack of Clubs
+3 of Hearts
+Jack of Spades
+
+Hand 877:
+Queen of Spades
+Queen of Hearts
+10 of Spades
+Jack of Hearts
+10 of Clubs
+
+Hand 878:
+Ace of Spades
+King of Clubs
+2 of Clubs
+7 of Clubs
+4 of Spades
+
+Hand 879:
+8 of Diamonds
+2 of Diamonds
+6 of Clubs
+9 of Hearts
+7 of Hearts
+
+Hand 880:
+4 of Hearts
+8 of Hearts
+10 of Diamonds
+3 of Diamonds
+4 of Diamonds
+
+Hand 881:
+5 of Hearts
+8 of Clubs
+Ace of Clubs
+7 of Spades
+9 of Spades
+
+Hand 882:
+King of Spades
+6 of Spades
+8 of Spades
+2 of Hearts
+Queen of Clubs
+
+Hand 883:
+5 of Clubs
+9 of Spades
+6 of Clubs
+6 of Diamonds
+Jack of Spades
+
+Hand 884:
+4 of Clubs
+7 of Clubs
+3 of Spades
+3 of Clubs
+Queen of Diamonds
+
+Hand 885:
+3 of Diamonds
+Jack of Clubs
+Queen of Clubs
+King of Spades
+8 of Diamonds
+
+Hand 886:
+4 of Spades
+6 of Spades
+3 of Hearts
+Ace of Hearts
+2 of Hearts
+
+Hand 887:
+7 of Diamonds
+Queen of Spades
+8 of Clubs
+Jack of Hearts
+9 of Hearts
+
+Hand 888:
+6 of Hearts
+2 of Spades
+10 of Spades
+8 of Spades
+4 of Hearts
+
+Hand 889:
+5 of Diamonds
+10 of Clubs
+King of Clubs
+King of Diamonds
+8 of Hearts
+
+Hand 890:
+9 of Clubs
+7 of Hearts
+Queen of Hearts
+10 of Diamonds
+2 of Clubs
+
+Hand 891:
+7 of Spades
+Jack of Diamonds
+4 of Diamonds
+Ace of Clubs
+5 of Spades
+
+Hand 892:
+5 of Hearts
+Ace of Spades
+9 of Diamonds
+5 of Clubs
+2 of Spades
+
+Hand 893:
+10 of Spades
+4 of Clubs
+9 of Spades
+6 of Diamonds
+2 of Clubs
+
+Hand 894:
+8 of Hearts
+Ace of Clubs
+Ace of Spades
+4 of Hearts
+8 of Diamonds
+
+Hand 895:
+King of Spades
+6 of Clubs
+10 of Diamonds
+2 of Diamonds
+6 of Hearts
+
+Hand 896:
+5 of Spades
+5 of Clubs
+Ace of Hearts
+9 of Diamonds
+8 of Clubs
+
+Hand 897:
+Jack of Clubs
+4 of Diamonds
+6 of Spades
+Jack of Hearts
+Queen of Clubs
+
+Hand 898:
+3 of Hearts
+3 of Diamonds
+7 of Spades
+3 of Clubs
+Jack of Diamonds
+
+Hand 899:
+9 of Clubs
+7 of Hearts
+Jack of Spades
+8 of Spades
+King of Hearts
+
+Hand 900:
+3 of Spades
+2 of Hearts
+10 of Hearts
+Queen of Spades
+Queen of Hearts
+
+Hand 901:
+4 of Spades
+King of Diamonds
+7 of Clubs
+5 of Diamonds
+Queen of Diamonds
+
+Hand 902:
+Ace of Diamonds
+7 of Diamonds
+7 of Hearts
+Ace of Hearts
+Queen of Hearts
+
+Hand 903:
+5 of Diamonds
+Queen of Diamonds
+7 of Clubs
+3 of Spades
+Ace of Diamonds
+
+Hand 904:
+Jack of Spades
+9 of Diamonds
+6 of Clubs
+King of Diamonds
+Queen of Clubs
+
+Hand 905:
+8 of Hearts
+3 of Diamonds
+Ace of Clubs
+2 of Clubs
+7 of Diamonds
+
+Hand 906:
+6 of Spades
+Jack of Hearts
+2 of Hearts
+10 of Diamonds
+2 of Diamonds
+
+Hand 907:
+King of Hearts
+4 of Spades
+10 of Hearts
+Jack of Diamonds
+10 of Clubs
+
+Hand 908:
+5 of Hearts
+6 of Hearts
+9 of Clubs
+Queen of Spades
+8 of Spades
+
+Hand 909:
+Ace of Spades
+Jack of Clubs
+9 of Hearts
+5 of Clubs
+King of Spades
+
+Hand 910:
+7 of Spades
+King of Clubs
+9 of Spades
+4 of Diamonds
+3 of Clubs
+
+Hand 911:
+5 of Spades
+4 of Hearts
+8 of Clubs
+4 of Clubs
+10 of Spades
+
+Hand 912:
+7 of Spades
+Jack of Diamonds
+Ace of Clubs
+7 of Clubs
+2 of Spades
+
+Hand 913:
+2 of Diamonds
+4 of Spades
+9 of Spades
+10 of Clubs
+8 of Spades
+
+Hand 914:
+4 of Hearts
+9 of Hearts
+3 of Hearts
+4 of Clubs
+6 of Hearts
+
+Hand 915:
+9 of Diamonds
+King of Spades
+3 of Clubs
+2 of Clubs
+5 of Clubs
+
+Hand 916:
+7 of Diamonds
+Ace of Hearts
+9 of Clubs
+Queen of Clubs
+Ace of Spades
+
+Hand 917:
+10 of Hearts
+10 of Spades
+Ace of Diamonds
+4 of Diamonds
+Jack of Spades
+
+Hand 918:
+5 of Spades
+5 of Diamonds
+10 of Diamonds
+Queen of Hearts
+7 of Hearts
+
+Hand 919:
+2 of Hearts
+8 of Diamonds
+Queen of Spades
+8 of Clubs
+Jack of Hearts
+
+Hand 920:
+6 of Clubs
+Jack of Clubs
+6 of Spades
+3 of Spades
+King of Clubs
+
+Hand 921:
+King of Hearts
+3 of Diamonds
+Queen of Diamonds
+3 of Spades
+Jack of Hearts
+
+Hand 922:
+6 of Diamonds
+7 of Clubs
+5 of Hearts
+King of Spades
+2 of Spades
+
+Hand 923:
+9 of Spades
+8 of Spades
+2 of Clubs
+3 of Diamonds
+Jack of Diamonds
+
+Hand 924:
+Queen of Hearts
+8 of Clubs
+3 of Clubs
+2 of Diamonds
+2 of Hearts
+
+Hand 925:
+Jack of Clubs
+8 of Hearts
+9 of Clubs
+Queen of Spades
+8 of Diamonds
+
+Hand 926:
+4 of Hearts
+3 of Hearts
+Ace of Spades
+Queen of Clubs
+6 of Hearts
+
+Hand 927:
+5 of Diamonds
+King of Diamonds
+10 of Clubs
+5 of Spades
+Ace of Hearts
+
+Hand 928:
+7 of Spades
+10 of Hearts
+9 of Hearts
+9 of Diamonds
+6 of Clubs
+
+Hand 929:
+Queen of Diamonds
+4 of Diamonds
+King of Hearts
+6 of Spades
+King of Clubs
+
+Hand 930:
+4 of Spades
+Ace of Clubs
+Ace of Diamonds
+7 of Hearts
+7 of Diamonds
+
+Hand 931:
+Jack of Spades
+6 of Hearts
+7 of Diamonds
+4 of Hearts
+King of Hearts
+
+Hand 932:
+4 of Clubs
+9 of Clubs
+2 of Spades
+9 of Hearts
+7 of Spades
+
+Hand 933:
+Ace of Hearts
+8 of Clubs
+3 of Diamonds
+10 of Hearts
+Jack of Hearts
+
+Hand 934:
+9 of Diamonds
+2 of Diamonds
+4 of Diamonds
+5 of Diamonds
+3 of Clubs
+
+Hand 935:
+Ace of Diamonds
+10 of Diamonds
+7 of Hearts
+5 of Spades
+10 of Clubs
+
+Hand 936:
+3 of Hearts
+Jack of Clubs
+Queen of Diamonds
+Queen of Spades
+8 of Spades
+
+Hand 937:
+King of Spades
+10 of Spades
+Queen of Hearts
+King of Clubs
+Ace of Spades
+
+Hand 938:
+Jack of Diamonds
+2 of Hearts
+Jack of Spades
+5 of Hearts
+9 of Spades
+
+Hand 939:
+King of Diamonds
+8 of Diamonds
+Queen of Clubs
+6 of Spades
+6 of Diamonds
+
+Hand 940:
+2 of Clubs
+6 of Clubs
+4 of Spades
+7 of Clubs
+King of Spades
+
+Hand 941:
+Jack of Diamonds
+9 of Hearts
+10 of Clubs
+3 of Diamonds
+10 of Spades
+
+Hand 942:
+4 of Spades
+6 of Spades
+6 of Hearts
+7 of Hearts
+Queen of Spades
+
+Hand 943:
+4 of Diamonds
+9 of Diamonds
+4 of Hearts
+5 of Clubs
+King of Diamonds
+
+Hand 944:
+3 of Hearts
+7 of Spades
+7 of Diamonds
+Ace of Spades
+Queen of Clubs
+
+Hand 945:
+Jack of Hearts
+9 of Spades
+6 of Diamonds
+5 of Hearts
+8 of Hearts
+
+Hand 946:
+8 of Spades
+King of Hearts
+Jack of Clubs
+10 of Hearts
+Queen of Hearts
+
+Hand 947:
+Ace of Clubs
+King of Clubs
+2 of Diamonds
+Ace of Diamonds
+Ace of Hearts
+
+Hand 948:
+Queen of Diamonds
+5 of Spades
+2 of Clubs
+3 of Clubs
+7 of Clubs
+
+Hand 949:
+2 of Hearts
+4 of Clubs
+8 of Clubs
+9 of Clubs
+5 of Diamonds
+
+Hand 950:
+8 of Diamonds
+3 of Spades
+3 of Spades
+8 of Hearts
+Ace of Clubs
+
+Hand 951:
+Ace of Diamonds
+8 of Diamonds
+9 of Clubs
+6 of Spades
+Queen of Hearts
+
+Hand 952:
+7 of Hearts
+7 of Spades
+Jack of Clubs
+Ace of Hearts
+Queen of Clubs
+
+Hand 953:
+King of Clubs
+6 of Diamonds
+3 of Diamonds
+10 of Clubs
+8 of Spades
+
+Hand 954:
+Queen of Diamonds
+10 of Diamonds
+4 of Diamonds
+5 of Spades
+Queen of Spades
+
+Hand 955:
+9 of Spades
+4 of Hearts
+Ace of Spades
+9 of Diamonds
+7 of Diamonds
+
+Hand 956:
+10 of Spades
+Jack of Hearts
+2 of Diamonds
+2 of Clubs
+10 of Hearts
+
+Hand 957:
+5 of Hearts
+6 of Hearts
+Jack of Diamonds
+King of Diamonds
+3 of Clubs
+
+Hand 958:
+2 of Hearts
+7 of Clubs
+9 of Hearts
+6 of Clubs
+King of Hearts
+
+Hand 959:
+3 of Hearts
+5 of Diamonds
+5 of Clubs
+8 of Clubs
+4 of Spades
+
+Hand 960:
+2 of Diamonds
+8 of Clubs
+4 of Diamonds
+9 of Hearts
+5 of Diamonds
+
+Hand 961:
+7 of Clubs
+10 of Diamonds
+7 of Hearts
+4 of Hearts
+King of Hearts
+
+Hand 962:
+10 of Clubs
+10 of Spades
+3 of Hearts
+9 of Spades
+Ace of Clubs
+
+Hand 963:
+King of Diamonds
+Jack of Spades
+6 of Diamonds
+2 of Clubs
+5 of Spades
+
+Hand 964:
+King of Spades
+8 of Diamonds
+Queen of Diamonds
+Queen of Clubs
+3 of Diamonds
+
+Hand 965:
+Jack of Clubs
+9 of Diamonds
+Jack of Diamonds
+6 of Spades
+10 of Hearts
+
+Hand 966:
+3 of Clubs
+Jack of Hearts
+Queen of Spades
+6 of Clubs
+2 of Spades
+
+Hand 967:
+5 of Hearts
+7 of Diamonds
+6 of Hearts
+King of Clubs
+Ace of Diamonds
+
+Hand 968:
+Ace of Hearts
+8 of Hearts
+4 of Spades
+Ace of Spades
+4 of Clubs
+
+Hand 969:
+Queen of Hearts
+8 of Spades
+3 of Spades
+7 of Hearts
+2 of Diamonds
+
+Hand 970:
+10 of Clubs
+4 of Hearts
+King of Hearts
+Ace of Hearts
+8 of Spades
+
+Hand 971:
+8 of Diamonds
+7 of Diamonds
+5 of Spades
+Queen of Hearts
+5 of Diamonds
+
+Hand 972:
+Queen of Clubs
+9 of Diamonds
+4 of Diamonds
+Jack of Clubs
+Queen of Diamonds
+
+Hand 973:
+3 of Diamonds
+8 of Clubs
+6 of Clubs
+2 of Clubs
+5 of Clubs
+
+Hand 974:
+3 of Clubs
+King of Spades
+Ace of Spades
+9 of Hearts
+9 of Spades
+
+Hand 975:
+5 of Hearts
+6 of Diamonds
+7 of Clubs
+2 of Hearts
+6 of Hearts
+
+Hand 976:
+3 of Hearts
+9 of Clubs
+6 of Spades
+Ace of Clubs
+King of Clubs
+
+Hand 977:
+2 of Spades
+Queen of Spades
+10 of Spades
+10 of Hearts
+4 of Spades
+
+Hand 978:
+King of Diamonds
+Jack of Diamonds
+10 of Diamonds
+Jack of Hearts
+7 of Spades
+
+Hand 979:
+4 of Clubs
+2 of Clubs
+King of Clubs
+9 of Spades
+Jack of Spades
+
+Hand 980:
+8 of Hearts
+5 of Hearts
+5 of Diamonds
+3 of Spades
+7 of Spades
+
+Hand 981:
+4 of Hearts
+8 of Spades
+8 of Diamonds
+7 of Hearts
+Ace of Hearts
+
+Hand 982:
+9 of Diamonds
+Jack of Hearts
+Queen of Diamonds
+3 of Clubs
+Ace of Spades
+
+Hand 983:
+10 of Hearts
+2 of Hearts
+King of Spades
+Jack of Diamonds
+Queen of Clubs
+
+Hand 984:
+10 of Diamonds
+4 of Diamonds
+2 of Diamonds
+King of Hearts
+7 of Clubs
+
+Hand 985:
+Queen of Hearts
+5 of Spades
+Jack of Clubs
+9 of Hearts
+9 of Clubs
+
+Hand 986:
+Ace of Diamonds
+4 of Clubs
+King of Diamonds
+5 of Clubs
+6 of Hearts
+
+Hand 987:
+3 of Hearts
+8 of Clubs
+6 of Clubs
+2 of Spades
+3 of Diamonds
+
+Hand 988:
+10 of Clubs
+6 of Diamonds
+4 of Spades
+10 of Spades
+Ace of Diamonds
+
+Hand 989:
+Ace of Hearts
+Queen of Hearts
+10 of Spades
+8 of Diamonds
+Queen of Spades
+
+Hand 990:
+7 of Diamonds
+King of Spades
+5 of Hearts
+9 of Spades
+3 of Hearts
+
+Hand 991:
+Jack of Hearts
+3 of Spades
+4 of Hearts
+Jack of Clubs
+9 of Clubs
+
+Hand 992:
+10 of Diamonds
+Ace of Clubs
+7 of Clubs
+2 of Diamonds
+Jack of Spades
+
+Hand 993:
+5 of Diamonds
+5 of Spades
+9 of Diamonds
+10 of Hearts
+6 of Hearts
+
+Hand 994:
+Queen of Clubs
+6 of Spades
+3 of Diamonds
+8 of Clubs
+7 of Spades
+
+Hand 995:
+5 of Clubs
+King of Clubs
+9 of Hearts
+3 of Clubs
+King of Hearts
+
+Hand 996:
+2 of Clubs
+Queen of Diamonds
+7 of Hearts
+2 of Hearts
+10 of Clubs
+
+Hand 997:
+4 of Spades
+8 of Hearts
+2 of Spades
+8 of Spades
+6 of Clubs
+
+Hand 998:
+4 of Diamonds
+King of Diamonds
+Queen of Clubs
+3 of Clubs
+Ace of Clubs
+
+Hand 999:
+7 of Diamonds
+8 of Hearts
+8 of Spades
+9 of Spades
+King of Hearts
